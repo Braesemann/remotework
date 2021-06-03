@@ -1,0 +1,342 @@
+SOC4;detailedOccupations;year;count;mean_wage;median_wage;short_name
+13-1111;Management Analysts;01.01.13;3741;13.84414455;10;Management Analysts
+13-1111;Management Analysts;01.01.14;220;16.96149715;11.109945;Management Analysts
+13-1111;Management Analysts;01.01.15;286;20.6114509;13;Management Analysts
+13-1111;Management Analysts;01.01.16;594;18.43379778;12.03431;Management Analysts
+13-1111;Management Analysts;01.01.17;1232;33.56858292;15.00395;Management Analysts
+13-1111;Management Analysts;01.01.18;1413;77.39551853;15.67143;Management Analysts
+13-1111;Management Analysts;01.01.19;1684;24.49336016;16;Management Analysts
+13-1111;Management Analysts;01.01.20;795;29.66144598;21.45825;Management Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.13;17763;5.249741278;3;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.14;2947;6.861658914;3.99995;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.15;5018;8.799261572;4.4850775;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.16;7728;13.07369946;5.9773195;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.17;12624;14.78891575;6.9967405;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.18;10288;16.54297734;8.498637;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.19;17990;15.29924504;7.496741;Market Research Analysts
+13-1161;Market Research Analysts and Marketing Specialists;01.01.20;9030;16.93686324;8.0279465;Market Research Analysts
+13-2011;Accountants and Auditors;01.01.13;2236;10.6700343;6.67;Accountants
+13-2011;Accountants and Auditors;01.01.14;1323;12.95800115;7.22;Accountants
+13-2011;Accountants and Auditors;01.01.15;1495;17.76456745;9.999474;Accountants
+13-2011;Accountants and Auditors;01.01.16;1714;18.15739608;10.012;Accountants
+13-2011;Accountants and Auditors;01.01.17;2846;20.91356299;12;Accountants
+13-2011;Accountants and Auditors;01.01.18;2251;22.09766587;10.04991;Accountants
+13-2011;Accountants and Auditors;01.01.19;2438;15.78301453;9.979625;Accountants
+13-2011;Accountants and Auditors;01.01.20;1485;17.70311055;10.02916;Accountants
+13-2061;Financial Analysts;01.01.13;406;16.85153273;11.11;Financial Analysts
+13-2061;Financial Analysts;01.01.14;115;23.84365162;16.63455;Financial Analysts
+13-2061;Financial Analysts;01.01.15;171;23.80714145;20;Financial Analysts
+13-2061;Financial Analysts;01.01.16;276;38.36654556;30;Financial Analysts
+13-2061;Financial Analysts;01.01.17;468;33.96648012;25.65737;Financial Analysts
+13-2061;Financial Analysts;01.01.18;405;37.27294744;26.668105;Financial Analysts
+13-2061;Financial Analysts;01.01.19;897;39.75780866;27.09;Financial Analysts
+13-2061;Financial Analysts;01.01.20;508;48.09111153;30;Financial Analysts
+15-1212;Information Security Analysts;01.01.15;138;28.45638287;18;Information Security Analysts
+15-1212;Information Security Analysts;01.01.16;252;31.99367764;23.87021;Information Security Analysts
+15-1212;Information Security Analysts;01.01.17;433;31.41410286;25;Information Security Analysts
+15-1212;Information Security Analysts;01.01.18;494;33.48276749;25.32578;Information Security Analysts
+15-1212;Information Security Analysts;01.01.19;643;39.93851241;29.921735;Information Security Analysts
+15-1212;Information Security Analysts;01.01.20;315;40.6690645;30;Information Security Analysts
+15-1231;Computer Network Support Specialists;01.01.13;1194;17.2822651;15;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.14;276;17.89511134;16.67014;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.15;1008;25.44761354;15;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.16;1377;23.31159767;18.73297;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.17;1731;28.04713734;20;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.18;787;26.63467064;20;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.19;1759;33.87161099;25;Network Support Specialists
+15-1231;Computer Network Support Specialists;01.01.20;915;39.39569238;30;Network Support Specialists
+15-1232;Computer User Support Specialists;01.01.13;1100;6.099720781;4.44;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.14;51;12.06561969;8.390014;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.15;96;11.90119825;6.671005;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.16;195;9.986788368;6.829012;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.17;309;13.11162381;8.752;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.18;176;12.39865626;8.007389;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.19;567;17.48740026;12.01468;User Support Specialists
+15-1232;Computer User Support Specialists;01.01.20;353;21.12316188;11.72727;User Support Specialists
+15-1244;Network and Computer Systems Administrators;01.01.13;3328;19.41901578;16.67;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.14;733;23.11743877;20.00006;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.15;1239;30.86724685;20;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.16;1767;28.97354623;24.99077;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.17;2721;32.68613799;25.04372;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.18;3949;31.45169277;24.97004;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.19;3216;32.722506;25;Computer Systems Administrators
+15-1244;Network and Computer Systems Administrators;01.01.20;1615;36.17824434;25.04167;Computer Systems Administrators
+15-1245;Database Administrators;01.01.13;789;18.22238367;16.67;Database Administrators
+15-1245;Database Administrators;01.01.14;176;21.76755869;17.00002;Database Administrators
+15-1245;Database Administrators;01.01.15;363;19.27249045;15;Database Administrators
+15-1245;Database Administrators;01.01.16;662;25.12391599;18.69939;Database Administrators
+15-1245;Database Administrators;01.01.17;1130;26.52995856;20;Database Administrators
+15-1245;Database Administrators;01.01.18;1227;26.07619616;18.75;Database Administrators
+15-1245;Database Administrators;01.01.19;999;27.00894733;20;Database Administrators
+15-1245;Database Administrators;01.01.20;360;34.05397566;25.01091;Database Administrators
+15-1251;Computer Programmers;01.01.13;10736;18.38731812;16.67;Computer Programmers
+15-1251;Computer Programmers;01.01.14;3882;26.9896997;15;Computer Programmers
+15-1251;Computer Programmers;01.01.15;4721;23.4088701;15.5599;Computer Programmers
+15-1251;Computer Programmers;01.01.16;5571;24.81285799;19.9453;Computer Programmers
+15-1251;Computer Programmers;01.01.17;8168;33.67359215;20.21212;Computer Programmers
+15-1251;Computer Programmers;01.01.18;5936;28.15647815;24.50427;Computer Programmers
+15-1251;Computer Programmers;01.01.19;5688;27.9655626;21.83333;Computer Programmers
+15-1251;Computer Programmers;01.01.20;1878;34.56064985;25;Computer Programmers
+15-1256;Software Developers, Applications;01.01.13;2021;9.458301671;7.89;Software Developers
+15-1256;Software Developers, Applications;01.01.14;330;11.89631552;8.88973;Software Developers
+15-1256;Software Developers, Applications;01.01.15;851;15.40457254;9.064049;Software Developers
+15-1256;Software Developers, Applications;01.01.16;1089;33.80570802;9.990651;Software Developers
+15-1256;Software Developers, Applications;01.01.17;2304;15.68087004;10;Software Developers
+15-1256;Software Developers, Applications;01.01.18;2177;14.60583225;10.59004;Software Developers
+15-1256;Software Developers, Applications;01.01.19;1826;16.4823119;12;Software Developers
+15-1256;Software Developers, Applications;01.01.20;767;21.28157653;11.92012;Software Developers
+15-1257;Web Developers;01.01.13;91636;13.34518409;11.11;Web Developers
+15-1257;Web Developers;01.01.14;16614;18.52440745;11.11091;Web Developers
+15-1257;Web Developers;01.01.15;25628;24.74520354;12;Web Developers
+15-1257;Web Developers;01.01.16;27765;18.39254872;14.70588;Web Developers
+15-1257;Web Developers;01.01.17;44622;21.90369057;15;Web Developers
+15-1257;Web Developers;01.01.18;43999;20.90686815;15.21739;Web Developers
+15-1257;Web Developers;01.01.19;45585;20.89206793;15.06849;Web Developers
+15-1257;Web Developers;01.01.20;22928;21.79212109;16.34146;Web Developers
+15-1299;Computer Occupations, All Other;01.01.13;57428;10.46615462;6;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.14;7700;12.51611617;7.78;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.15;14488;14.75377878;8.4997055;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.16;20821;15.49398184;9.199557;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.17;37906;15.98692043;9.9290425;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.18;35867;15.29105774;8.75;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.19;44011;16.71228509;9;Other Computer Occupations
+15-1299;Computer Occupations, All Other;01.01.20;21286;16.92146028;9.995816;Other Computer Occupations
+15-2098;Data scientists and mathematical science occupations, all other;01.01.13;765;15.72974906;11.11;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.14;230;22.46705866;16.67006;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.15;394;24.58589981;20;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.16;552;32.58214217;29.49975;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.17;1412;37.07475154;30;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.18;2049;29.54765164;23.90787;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.19;2725;33.59839556;25;Data Scientists
+15-2098;Data scientists and mathematical science occupations, all other;01.01.20;1357;34.64264988;25.575165;Data Scientists
+17-2041;Chemical Engineers;01.01.16;56;23.79176821;24.160365;Chemical Engineers
+17-2041;Chemical Engineers;01.01.17;113;25.3025747;15.75;Chemical Engineers
+17-2041;Chemical Engineers;01.01.18;111;43.00405567;26.380385;Chemical Engineers
+17-2041;Chemical Engineers;01.01.19;250;40.49626446;26.52459;Chemical Engineers
+17-2041;Chemical Engineers;01.01.20;89;40.74581217;39.8174;Chemical Engineers
+17-2112;Industrial Engineers;01.01.16;28;18.32195356;17.03688;Industrial Engineers
+17-2112;Industrial Engineers;01.01.17;36;40.096349;27.464615;Industrial Engineers
+17-2112;Industrial Engineers;01.01.18;22;27.48737775;25.02186;Industrial Engineers
+17-2112;Industrial Engineers;01.01.19;413;20.13640328;18;Industrial Engineers
+17-2112;Industrial Engineers;01.01.20;413;23.33389629;19.98765;Industrial Engineers
+17-2199;Engineers, All Other;01.01.19;42;30.22128083;27.461055;Other Engineers
+17-2199;Engineers, All Other;01.01.20;91;25.50360266;24;Other Engineers
+17-3011;Architectural and Civil Drafters;01.01.15;259;14.03392835;13.33;Architectural Drafters
+17-3011;Architectural and Civil Drafters;01.01.16;464;16.52598744;15;Architectural Drafters
+17-3011;Architectural and Civil Drafters;01.01.17;1042;16.45249608;15;Architectural Drafters
+17-3011;Architectural and Civil Drafters;01.01.18;1837;17.90494353;15.76783;Architectural Drafters
+17-3011;Architectural and Civil Drafters;01.01.19;1194;21.20375472;16;Architectural Drafters
+17-3011;Architectural and Civil Drafters;01.01.20;730;20.21295578;17.8;Architectural Drafters
+17-3012;Electrical and Electronics Drafters;01.01.13;4286;13.02807276;11.11;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.14;1690;15.65060714;12.99966;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.15;1960;17.79146964;15;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.16;2225;20.08260148;15;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.17;3864;21.70763496;16.58333;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.18;2774;21.49737173;18;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.19;4623;21.32889141;18.76255;Electrical Drafters
+17-3012;Electrical and Electronics Drafters;01.01.20;2617;23.21093134;20;Electrical Drafters
+17-3013;Mechanical Drafters;01.01.15;148;16.91199061;12.5;Mechanical Drafters
+17-3013;Mechanical Drafters;01.01.16;292;24.07782158;17.405;Mechanical Drafters
+17-3013;Mechanical Drafters;01.01.17;487;75.61307914;17.62566;Mechanical Drafters
+17-3013;Mechanical Drafters;01.01.18;721;22.48216614;19.58312;Mechanical Drafters
+17-3013;Mechanical Drafters;01.01.19;581;24.36937922;20;Mechanical Drafters
+17-3013;Mechanical Drafters;01.01.20;318;34.32317651;25;Mechanical Drafters
+17-3019;Drafters, All Other;01.01.13;840;12.90519796;11.11;Other Drafters
+17-3019;Drafters, All Other;01.01.15;200;16.50467343;14.715265;Other Drafters
+17-3019;Drafters, All Other;01.01.16;249;21.06876316;15;Other Drafters
+17-3019;Drafters, All Other;01.01.17;606;20.96308909;16.02045;Other Drafters
+17-3019;Drafters, All Other;01.01.18;581;22.36715855;17.4725;Other Drafters
+17-3019;Drafters, All Other;01.01.19;798;24.46166174;20;Other Drafters
+17-3019;Drafters, All Other;01.01.20;6;20.0336;20.0336;Other Drafters
+17-3022;Civil Engineering Technicians;01.01.15;72;14.3260355;11.10971;Civil Engineering Technicians
+17-3022;Civil Engineering Technicians;01.01.16;160;16.688399;14.16279;Civil Engineering Technicians
+17-3022;Civil Engineering Technicians;01.01.17;337;23.23258956;15.15625;Civil Engineering Technicians
+17-3022;Civil Engineering Technicians;01.01.18;493;142.1434299;15.5922;Civil Engineering Technicians
+17-3022;Civil Engineering Technicians;01.01.19;884;20.57335764;16.75;Civil Engineering Technicians
+17-3022;Civil Engineering Technicians;01.01.20;504;22.50407688;17.92308;Civil Engineering Technicians
+19-2099;Physical Scientists, All Other;01.01.19;213;24.94436511;18.5066;Physical Scientists
+19-2099;Physical Scientists, All Other;01.01.20;422;29.20339316;20;Physical Scientists
+23-2011;Paralegals and Legal Assistants;01.01.13;940;38.10576271;22.22;Paralegals
+23-2011;Paralegals and Legal Assistants;01.01.15;220;57.81038354;50;Paralegals
+23-2011;Paralegals and Legal Assistants;01.01.16;789;53.40166066;39.729735;Paralegals
+23-2011;Paralegals and Legal Assistants;01.01.17;1507;53.69850738;35.98759;Paralegals
+23-2011;Paralegals and Legal Assistants;01.01.18;1275;48.41521987;35;Paralegals
+23-2011;Paralegals and Legal Assistants;01.01.19;1616;51.27264961;35;Paralegals
+23-2011;Paralegals and Legal Assistants;01.01.20;953;63.77265631;40.007505;Paralegals
+23-2099;Legal Support Workers, All Other;01.01.13;94;41.74896784;55.56;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.14;294;46.62092632;26.96078;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.15;236;36.51042826;22.22;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.16;392;40.40012379;25.01656;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.17;718;42.69072634;34.02778;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.18;555;37.88623458;25.01912;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.19;567;42.69272098;25.52062;Other Legal Support Workers
+23-2099;Legal Support Workers, All Other;01.01.20;272;57.16178996;45.03916;Other Legal Support Workers
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.13;5570;12.19873343;11.11;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.14;1587;14.712066;12;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.15;2774;18.65572733;13.33032;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.16;4280;17.32684217;15.00682;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.17;7707;20.7175447;17.5;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.18;6807;19.31714244;15.49109;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.19;7597;20.17741267;18.21238;Illustrators
+27-1013;Fine Artists, Including Painters, Sculptors, and Illustrators;01.01.20;3374;22.71414041;19.94017;Illustrators
+27-1014;Multimedia Artists and Animators;01.01.13;1983;15.12354024;13;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.14;533;17.20218096;16.6699;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.15;1167;18.7945639;15;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.16;1995;22.3444192;18.05343;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.17;3879;26.53401402;20;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.18;3729;23.19214557;20;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.19;4320;22.65436896;20;Multimedia Animators
+27-1014;Multimedia Artists and Animators;01.01.20;1783;26.95293284;24.915;Multimedia Animators
+27-1021;Commercial and Industrial Designers;01.01.13;77;12.67602669;10.99846;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.14;324;15.49210725;13.710445;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.15;232;20.43647186;17.411895;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.16;324;27.01825574;24.05952;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.17;912;28.38912213;24.405;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.18;1833;26.04400635;20.49451;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.19;2801;25.69995556;19.99115;Industrial Designers
+27-1021;Commercial and Industrial Designers;01.01.20;1225;36.24997011;27.283565;Industrial Designers
+27-1024;Graphic Designers;01.01.13;30327;11.5029437;9;Graphic Designers
+27-1024;Graphic Designers;01.01.14;10948;15.70767714;11.11;Graphic Designers
+27-1024;Graphic Designers;01.01.15;15252;16.22441924;12;Graphic Designers
+27-1024;Graphic Designers;01.01.16;28876;18.56818374;15;Graphic Designers
+27-1024;Graphic Designers;01.01.17;44383;20.04402341;15.01155;Graphic Designers
+27-1024;Graphic Designers;01.01.18;46737;20.09834918;15;Graphic Designers
+27-1024;Graphic Designers;01.01.19;35203;19.96595245;15;Graphic Designers
+27-1024;Graphic Designers;01.01.20;14665;21.78231735;16.791465;Graphic Designers
+27-1025;Interior Designers;01.01.15;82;12.31449;10.00017;Interior Designers
+27-1025;Interior Designers;01.01.16;163;18.57560347;16;Interior Designers
+27-1025;Interior Designers;01.01.17;262;19.57924406;18.886495;Interior Designers
+27-1025;Interior Designers;01.01.18;204;17.20288482;15;Interior Designers
+27-1025;Interior Designers;01.01.19;548;21.76045509;17.84211;Interior Designers
+27-1025;Interior Designers;01.01.20;261;21.30066519;20;Interior Designers
+27-3011;Radio and Television Announcers;01.01.13;1939;31.42876285;25;Announcers
+27-3011;Radio and Television Announcers;01.01.14;480;58.8432455;34.17;Announcers
+27-3011;Radio and Television Announcers;01.01.15;691;146.5289188;43;Announcers
+27-3011;Radio and Television Announcers;01.01.16;2146;43.05213848;25;Announcers
+27-3011;Radio and Television Announcers;01.01.17;3282;37.93075626;25;Announcers
+27-3011;Radio and Television Announcers;01.01.18;3708;40.81217396;28.865695;Announcers
+27-3011;Radio and Television Announcers;01.01.19;5440;45.40230051;30.04292;Announcers
+27-3011;Radio and Television Announcers;01.01.20;2583;51.36634176;49.95368;Announcers
+27-3031;Public Relations Specialists;01.01.13;502;14.9310386;10;PR Specialists
+27-3031;Public Relations Specialists;01.01.14;76;20.98922216;11.25951;PR Specialists
+27-3031;Public Relations Specialists;01.01.15;111;22.84404364;11.05505;PR Specialists
+27-3031;Public Relations Specialists;01.01.16;309;24.92873589;18;PR Specialists
+27-3031;Public Relations Specialists;01.01.17;472;26.58206136;20;PR Specialists
+27-3031;Public Relations Specialists;01.01.18;576;23.01432816;14.89153;PR Specialists
+27-3031;Public Relations Specialists;01.01.19;465;20.86739263;12;PR Specialists
+27-3031;Public Relations Specialists;01.01.20;224;24.54386333;15;PR Specialists
+27-3041;Editors;01.01.15;1277;17.65327599;15;Editors
+27-3041;Editors;01.01.16;3346;19.77786071;15.99941;Editors
+27-3041;Editors;01.01.17;5237;20.74567041;17.9708;Editors
+27-3041;Editors;01.01.18;5201;22.61840124;17.473685;Editors
+27-3041;Editors;01.01.19;5542;23.10066686;19.58824;Editors
+27-3041;Editors;01.01.20;3164;26.06632951;20.005225;Editors
+27-3042;Technical Writers;01.01.13;36537;10.4497156;8;Technical Writers
+27-3042;Technical Writers;01.01.14;4523;14.37179916;8.890045;Technical Writers
+27-3042;Technical Writers;01.01.15;8244;19.61573375;11.00016;Technical Writers
+27-3042;Technical Writers;01.01.16;23936;18.91350283;14.00017;Technical Writers
+27-3042;Technical Writers;01.01.17;38658;20.42292542;14.97006;Technical Writers
+27-3042;Technical Writers;01.01.18;34416;22.93812774;15;Technical Writers
+27-3042;Technical Writers;01.01.19;21103;22.81351487;15.91387;Technical Writers
+27-3042;Technical Writers;01.01.20;1376;36.01257133;25.22;Technical Writers
+27-3043;Writers and Authors;01.01.13;9528;14.55989591;11.11;Writers and Authors
+27-3043;Writers and Authors;01.01.14;1317;19.16061285;15;Writers and Authors
+27-3043;Writers and Authors;01.01.15;2697;23.76942802;17.097895;Writers and Authors
+27-3043;Writers and Authors;01.01.16;7349;26.15998224;20;Writers and Authors
+27-3043;Writers and Authors;01.01.17;12424;29.72829904;22.677255;Writers and Authors
+27-3043;Writers and Authors;01.01.18;10596;28.74530054;20;Writers and Authors
+27-3043;Writers and Authors;01.01.19;18516;26.43824341;17.45299;Writers and Authors
+27-3043;Writers and Authors;01.01.20;15597;25.5222901;17.036145;Writers and Authors
+27-3091;Interpreters and Translators;01.01.13;11043;12.62379046;11.11;Translators
+27-3091;Interpreters and Translators;01.01.14;2459;139.376818;11.11011;Translators
+27-3091;Interpreters and Translators;01.01.15;5887;16.9791736;12;Translators
+27-3091;Interpreters and Translators;01.01.16;9973;17.53588154;13.012205;Translators
+27-3091;Interpreters and Translators;01.01.17;17262;17.66936315;13.975375;Translators
+27-3091;Interpreters and Translators;01.01.18;19701;20.1791786;15;Translators
+27-3091;Interpreters and Translators;01.01.19;26323;19.21420557;15.55583;Translators
+27-3091;Interpreters and Translators;01.01.20;12187;18.2960715;16.1592;Translators
+27-4011;Audio and Video Equipment Technicians;01.01.13;4187;12.33396878;10;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.14;992;13.18068078;11.10923;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.15;3204;13.51429296;10;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.16;5446;16.516728;13;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.17;9771;17.8356201;14;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.18;9339;19.15170255;14;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.19;16219;16.85768247;12;Audio and Video Technicians
+27-4011;Audio and Video Equipment Technicians;01.01.20;8423;18.52795031;14.522725;Audio and Video Technicians
+27-4014;Sound Engineering Technicians;01.01.13;1179;17.70156686;13.33;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.14;380;14.39369682;11.112;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.15;607;20.03715791;13.000155;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.16;961;20.15840125;16.67;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.17;1736;20.43587615;16.35194;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.18;1559;20.6896163;17.447945;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.19;2381;19.56700218;15.005225;Sound Engineering Technicians
+27-4014;Sound Engineering Technicians;01.01.20;1176;21.76651424;19.4382;Sound Engineering Technicians
+41-3011;Advertising Sales Agents;01.01.13;2374;7.857317376;4.44;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.14;321;11.84804012;5.560385;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.15;335;15.37025462;9.99993;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.16;569;19.9075935;12.99251;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.17;950;77.03728946;14.963885;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.18;649;21.35474232;14.16667;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.19;3404;19.50637083;10.75;Advertising Sales Agents
+41-3011;Advertising Sales Agents;01.01.20;2106;23.4029528;11.09608;Advertising Sales Agents
+41-9041;Telemarketers;01.01.13;3436;5.693370111;4.44;Telemarketers
+41-9041;Telemarketers;01.01.14;148;8.503101646;6.0959675;Telemarketers
+41-9041;Telemarketers;01.01.15;403;8.392927863;5.55;Telemarketers
+41-9041;Telemarketers;01.01.16;969;8.826271838;6.55;Telemarketers
+41-9041;Telemarketers;01.01.17;1890;11.33352429;6.666126;Telemarketers
+41-9041;Telemarketers;01.01.18;1739;10.21613334;6.6122915;Telemarketers
+41-9041;Telemarketers;01.01.19;2180;9.711355487;6.964195;Telemarketers
+41-9041;Telemarketers;01.01.20;813;10.46032114;7;Telemarketers
+43-4051;Customer Service Representatives;01.01.13;3413;6.24055069;3.33;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.14;238;9.96614611;5.570532;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.15;586;8.183650009;6;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.16;1019;8.778918345;5.991022;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.17;2818;14.11876429;6;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.18;3093;39.01474454;6.016393;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.19;3663;16.90748254;6.302889;Customer Service Representatives
+43-4051;Customer Service Representatives;01.01.20;2142;7.747396169;6.016129;Customer Service Representatives
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.13;537;7.669808712;5.56;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.14;145;11.19772564;9;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.15;127;13.02427309;8.615523;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.16;183;26.85259909;12.56628;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.17;500;20.06495832;12.59065;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.18;780;16.29196045;10.03469;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.19;932;20.52871198;11.55488;HR Assistants
+43-4161;Human Resources Assistants, Except Payroll and Timekeeping;01.01.20;496;22.26553944;12.71183;HR Assistants
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.13;17134;4.780239393;3.33;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.14;1831;7.495869314;4.44;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.15;3836;10.1347908;4.999966;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.16;6882;7.951374726;5.032;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.17;13449;33.35820981;5.393079;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.18;15209;8.692848811;5.769231;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.19;11105;8.170185854;5.989691;Secretaries
+43-6014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;01.01.20;5273;7.93107007;5.993103;Secretaries
+43-9021;Data Entry Keyers;01.01.13;20150;3.004298934;2.22;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.14;3017;4.490580854;3.33;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.15;5185;5.45841765;3.8904245;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.16;5494;5.576466131;4.001414;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.17;9882;6.473258137;4.935769;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.18;11098;7.142859101;4.995204;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.19;9701;6.111818857;4.930556;Data Entry Keyers
+43-9021;Data Entry Keyers;01.01.20;4255;6.392871162;4.976286;Data Entry Keyers
+43-9022;Word Processors and Typists;01.01.13;5191;7.652876571;5.56;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.14;814;12.88587293;6;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.15;1416;11.79623561;7.0005;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.16;2005;11.50758089;8;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.17;2510;9.327227351;6.242902;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.18;1064;9.352542039;6.998696;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.19;2746;11.75986916;8.004739;Word Processors and Typists
+43-9022;Word Processors and Typists;01.01.20;1225;10.57096192;8.003464;Word Processors and Typists
+43-9031;Desktop Publishers;01.01.13;21387;10.61149158;8.89;Desktop Publishers
+43-9031;Desktop Publishers;01.01.14;5559;13.19198485;10;Desktop Publishers
+43-9031;Desktop Publishers;01.01.15;9825;15.17571604;11.11014;Desktop Publishers
+43-9031;Desktop Publishers;01.01.16;1271;14.53849648;11.10857;Desktop Publishers
+43-9031;Desktop Publishers;01.01.17;5797;20.14702499;15.019565;Desktop Publishers
+43-9031;Desktop Publishers;01.01.18;38;24.61830733;25;Desktop Publishers
+43-9031;Desktop Publishers;01.01.19;483;17.54397619;14.997415;Desktop Publishers
+43-9111;Statistical Assistants;01.01.15;1781;15.12201409;10;Statistical Assistants
+43-9111;Statistical Assistants;01.01.16;3780;17.71989985;11.25091;Statistical Assistants
+43-9111;Statistical Assistants;01.01.17;6835;20.11963309;12.5;Statistical Assistants
+43-9111;Statistical Assistants;01.01.18;7483;20.11786971;10.10375;Statistical Assistants
+43-9111;Statistical Assistants;01.01.19;9603;16.56171854;7.786742;Statistical Assistants
+43-9111;Statistical Assistants;01.01.20;4351;19.43756752;10;Statistical Assistants
