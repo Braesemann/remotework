@@ -1,0 +1,796 @@
+job_title,soc_code,Less_than_high_school_diploma,High_school_diploma,Some_college_no_degree,Associate_degree,Bachelor_degree,Master_degree,Doctoral_degree
+"Total, all occupations",00-0000,8.1,23.6,20.3,9.6,23.5,10.5,4.4
+Chief executives(1),11-1011,1.4,8.6,14.5,5.4,39.9,23.3,6.9
+General and operations managers,11-1021,2.6,17.2,25.5,9.7,32.5,11.0,1.5
+Legislators(1),11-1031,1.4,8.6,14.5,5.4,39.9,23.3,6.9
+Advertising and promotions managers,11-2011,0.5,6.2,10.9,5.8,61.6,12.9,2.2
+Marketing managers,11-2021,0.5,3.6,9.8,5.0,55.4,23.4,2.2
+Sales managers,11-2022,1.2,10.6,19.7,9.0,46.1,12.0,1.3
+Public relations and fundraising managers,11-2030,0.4,2.6,5.4,4.8,53.5,29.1,4.1
+Administrative services and facilities managers(1),11-3010,2.7,17.7,25.1,12.0,30.3,10.8,1.4
+Computer and information systems managers,11-3021,0.4,4.1,13.7,7.4,45.3,26.2,2.9
+Financial managers,11-3031,1.1,10.0,18.0,7.1,41.9,19.7,2.3
+Industrial production managers,11-3051,4.1,19.9,19.9,8.6,32.3,13.8,1.3
+Purchasing managers,11-3061,0.8,11.3,16.4,8.7,38.6,21.0,3.2
+"Transportation, storage, and distribution managers",11-3071,6.8,30.3,26.5,9.8,19.6,6.1,0.8
+Compensation and benefits managers,11-3111,0.3,4.9,15.9,7.8,48.4,20.6,2.0
+Human resources managers,11-3121,3.1,11.5,17.3,7.4,38.9,19.1,2.8
+Training and development managers,11-3131,1.1,7.0,14.5,6.8,39.0,27.3,4.4
+"Farmers, ranchers, and other agricultural managers",11-9013,11.5,31.0,20.1,11.5,21.2,3.7,0.9
+Construction managers,11-9021,6.7,25.0,23.3,9.3,28.5,6.0,1.2
+"Education and childcare administrators, preschool and daycare(1)",11-9031,0.7,5.3,7.4,4.4,25.3,42.3,14.7
+"Education administrators, kindergarten through secondary(1)",11-9032,0.7,5.3,7.4,4.4,25.3,42.3,14.7
+"Education administrators, postsecondary(1)",11-9033,0.7,5.3,7.4,4.4,25.3,42.3,14.7
+"Education administrators, all other(1)",11-9039,0.7,5.3,7.4,4.4,25.3,42.3,14.7
+Architectural and engineering managers,11-9041,0.5,4.0,6.9,4.6,47.6,30.0,6.3
+Food service managers,11-9051,8.3,28.8,26.5,10.0,21.8,3.7,0.8
+Gambling managers(1),11-9071,3.3,17.0,27.5,11.5,27.4,12.3,1.0
+Lodging managers,11-9081,4.5,18.2,22.2,10.6,35.2,7.4,1.8
+Medical and health services managers,11-9111,1.4,8.9,15.4,11.9,29.9,25.0,7.6
+Natural sciences managers,11-9121,0.7,2.3,3.7,3.8,32.9,37.8,18.8
+Postmasters and mail superintendents(1),11-9131,3.2,14.7,18.5,7.9,34.3,17.6,3.9
+"Property, real estate, and community association managers",11-9141,3.7,18.9,24.0,9.8,31.5,9.4,2.7
+Social and community service managers,11-9151,0.9,8.0,13.2,5.7,38.3,28.4,5.4
+Emergency management directors,11-9161,0.2,9.6,16.7,11.6,39.4,20.6,1.9
+Funeral home managers(1),11-9171,3.2,14.7,18.5,7.9,34.3,17.6,3.9
+"Personal service managers, all other; entertainment and recreation managers, except gambling; and managers, all other(1)",11-9198,2.8,13.3,17.7,7.7,36.1,18.7,3.7
+"Agents and business managers of artists, performers, and athletes",13-1011,2.8,11.5,22.3,7.2,41.6,10.4,4.3
+Buyers and purchasing agents(1),13-1020,2.8,19.4,24.3,10.6,34.1,8.0,0.8
+"Claims adjusters, examiners, and investigators(1)",13-1031,1.0,14.1,24.4,11.3,38.1,9.1,1.9
+"Insurance appraisers, auto damage(1)",13-1032,1.0,14.1,24.4,11.3,38.1,9.1,1.9
+Compliance officers,13-1041,1.1,8.5,15.7,9.4,40.7,18.2,6.5
+Cost estimators,13-1051,3.3,20.1,27.2,13.0,31.2,4.9,0.4
+Human resources specialists(1),13-1071,1.1,8.5,18.9,7.9,45.2,16.4,2.1
+Farm labor contractors(1),13-1074,1.1,8.5,18.9,7.9,45.2,16.4,2.1
+Labor relations specialists(1),13-1075,1.1,8.5,18.9,7.9,45.2,16.4,2.1
+Logisticians,13-1081,1.7,17.1,25.9,12.7,31.2,9.9,1.5
+Management analysts,13-1111,0.8,4.2,11.1,4.5,41.8,30.1,7.5
+"Meeting, convention, and event planners",13-1121,1.9,9.5,13.4,6.5,56.2,11.8,0.7
+Fundraisers,13-1131,0.5,2.4,5.1,2.5,52.5,33.0,4.0
+"Compensation, benefits, and job analysis specialists",13-1141,0.2,12.5,21.9,12.3,41.3,10.3,1.6
+Training and development specialists,13-1151,1.4,12.0,21.5,10.5,34.6,17.2,2.8
+Market research analysts and marketing specialists,13-1161,0.5,5.0,10.3,4.3,53.9,23.0,3.0
+"Project management specialists and business operations specialists, all other(1)",13-1198,1.0,6.8,14.9,7.2,43.5,23.3,3.3
+Accountants and auditors,13-2011,0.0,3.5,6.4,8.6,55.4,23.1,3.0
+Property appraisers and assessors,13-2020,0.8,9.3,26.1,9.6,43.2,8.0,3.1
+Budget analysts,13-2031,0.8,7.0,8.3,5.6,45.4,30.3,2.5
+Credit analysts,13-2041,1.9,11.2,11.1,7.9,49.8,16.1,1.9
+Personal financial advisors,13-2052,0.8,3.2,9.6,3.9,52.9,23.9,5.7
+Insurance underwriters,13-2053,0.8,8.7,18.8,7.9,50.9,10.6,2.2
+Financial examiners,13-2061,0.5,8.2,4.6,6.9,48.0,28.4,3.4
+Credit counselors(1),13-2071,1.1,12.4,20.9,11.1,42.8,10.6,1.0
+Loan officers(1),13-2072,1.1,12.4,20.9,11.1,42.8,10.6,1.0
+"Tax examiners and collectors, and revenue agents",13-2081,1.9,15.6,21.6,9.6,35.3,12.1,3.9
+Tax preparers,13-2082,2.0,9.9,20.3,11.4,33.9,17.4,5.2
+"Financial and investment analysts, financial risk specialists, and financial specialists, all other(1)",13-2098,0.6,3.5,8.2,3.7,47.7,31.6,4.6
+Computer systems analysts,15-1211,0.5,5.4,12.8,7.8,46.4,24.0,3.1
+Information security analysts,15-1212,0.8,4.2,17.2,10.1,42.1,23.3,2.2
+Computer and information research scientists,15-1221,0.0,0.9,5.9,3.7,33.7,35.1,20.8
+Computer network support specialists(1),15-1231,0.8,9.9,25.2,15.5,37.0,10.7,1.0
+Computer user support specialists(1),15-1232,0.8,9.9,25.2,15.5,37.0,10.7,1.0
+Computer network architects,15-1241,1.0,7.1,20.9,16.3,39.1,14.2,1.6
+Network and computer systems administrators,15-1244,0.6,6.0,23.5,16.1,41.7,10.9,1.1
+Database administrators and architects(1),15-1245,0.5,4.5,12.0,8.2,46.9,25.2,2.7
+Computer programmers,15-1251,0.8,4.7,11.5,8.6,50.7,21.2,2.6
+Software developers and software quality assurance analysts and testers(1),15-1256,0.4,2.2,7.4,3.9,51.5,30.3,4.3
+Web developers and digital interface designers(1),15-1257,0.7,4.9,15.4,10.4,53.7,13.6,1.3
+"Computer occupations, all other(1)",15-1299,0.9,7.2,16.5,9.7,43.6,20.0,2.2
+Actuaries,15-2011,0.0,0.0,3.0,0.3,58.3,27.0,11.5
+Mathematicians(1),15-2021,0.1,1.7,6.0,4.2,37.5,36.0,14.5
+Operations research analysts,15-2031,0.6,5.4,14.1,7.1,39.2,28.9,4.6
+Statisticians(1),15-2041,0.1,1.7,6.0,4.2,37.5,36.0,14.5
+"Data scientists and mathematical science occupations, all other(1)",15-2098,0.1,1.7,6.0,4.2,37.5,36.0,14.5
+"Architects, except landscape and naval",17-1011,0.2,1.3,4.5,3.0,43.9,37.7,9.4
+Landscape architects,17-1012,1.8,3.8,7.9,6.3,53.4,24.2,2.6
+Cartographers and photogrammetrists(1),17-1021,0.0,4.2,11.2,13.0,57.0,11.2,3.4
+Surveyors(1),17-1022,0.0,4.2,11.2,13.0,57.0,11.2,3.4
+Aerospace engineers,17-2011,0.6,1.8,5.9,3.9,48.1,33.3,6.5
+Agricultural engineers(1),17-2021,0.0,7.8,4.6,8.6,44.0,23.5,11.4
+Bioengineers and biomedical engineers(1),17-2031,0.0,7.8,4.6,8.6,44.0,23.5,11.4
+Chemical engineers,17-2041,1.2,4.7,5.0,3.5,54.8,21.9,8.8
+Civil engineers,17-2051,0.4,2.6,5.5,5.1,56.4,25.4,4.5
+Computer hardware engineers,17-2061,0.1,5.6,10.4,9.2,38.3,29.7,6.7
+Electrical engineers(1),17-2071,0.3,3.4,7.7,7.3,50.5,25.1,5.6
+"Electronics engineers, except computer(1)",17-2072,0.3,3.4,7.7,7.3,50.5,25.1,5.6
+Environmental engineers,17-2081,0.7,2.7,3.0,0.9,48.7,36.8,7.1
+"Health and safety engineers, except mining safety engineers and inspectors(1)",17-2111,1.0,6.4,9.9,7.7,51.4,20.8,2.9
+Industrial engineers(1),17-2112,1.0,6.4,9.9,7.7,51.4,20.8,2.9
+Marine engineers and naval architects,17-2121,0.9,7.8,13.2,3.7,55.2,18.7,0.5
+Materials engineers,17-2131,0.7,4.4,11.2,9.9,52.5,16.8,4.5
+Mechanical engineers,17-2141,0.7,4.4,7.1,9.9,52.5,22.4,3.0
+"Mining and geological engineers, including mining safety engineers(1)",17-2151,0.6,4.5,7.9,3.3,61.6,12.0,10.1
+Nuclear engineers(1),17-2161,0.5,2.8,7.3,6.5,49.2,26.6,7.0
+Petroleum engineers(1),17-2171,0.6,4.5,7.9,3.3,61.6,12.0,10.1
+"Engineers, all other(1)",17-2199,0.5,2.8,7.3,6.5,49.2,26.6,7.0
+Architectural and civil drafters,17-3011,0.9,13.0,20.8,31.2,28.8,5.0,0.3
+Electrical and electronics drafters(1),17-3012,1.1,8.8,24.9,33.0,24.5,5.8,1.9
+Mechanical drafters(1),17-3013,1.1,8.8,24.9,33.0,24.5,5.8,1.9
+"Drafters, all other(1)",17-3019,1.1,8.8,24.9,33.0,24.5,5.8,1.9
+Aerospace engineering and operations technologists and technicians(1),17-3021,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Civil engineering technologists and technicians(1),17-3022,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Electrical and electronic engineering technologists and technicians,17-3023,2.1,17.5,32.8,28.5,14.7,3.9,0.4
+Electro-mechanical and mechatronics technologists and technicians(1),17-3024,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Environmental engineering technologists and technicians(1),17-3025,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Industrial engineering technologists and technicians(1),17-3026,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Mechanical engineering technologists and technicians(1),17-3027,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Surveying and mapping technicians,17-3031,6.1,30.3,33.7,19.9,8.4,1.5,0.1
+"Calibration technologists and technicians and engineering technologists and technicians, except drafters, all other(1)",17-3098,3.6,24.3,30.9,19.9,17.2,3.3,0.8
+Animal scientists(1),19-1011,0.0,0.0,0.0,0.0,58.7,31.1,10.2
+Food scientists and technologists(1),19-1012,0.0,0.0,0.0,0.0,58.7,31.1,10.2
+Soil and plant scientists(1),19-1013,0.0,0.0,0.0,0.0,58.7,31.1,10.2
+Biochemists and biophysicists(1),19-1021,0.0,0.0,0.0,0.0,49.1,29.9,21.0
+Microbiologists(1),19-1022,0.0,0.0,0.0,0.0,49.1,29.9,21.0
+Zoologists and wildlife biologists(1),19-1023,0.0,0.0,0.0,0.0,49.1,29.9,21.0
+"Biological scientists, all other(1)",19-1029,0.0,0.0,0.0,0.0,49.1,29.9,21.0
+Conservation scientists(1),19-1031,0.0,0.0,0.0,0.0,74.4,18.1,7.5
+Foresters(1),19-1032,0.0,0.0,0.0,0.0,74.4,18.1,7.5
+Epidemiologists(1),19-1041,1.0,0.5,0.8,0.4,24.6,23.6,49.3
+"Medical scientists, except epidemiologists(1)",19-1042,1.0,0.5,0.8,0.4,24.6,23.6,49.3
+"Life scientists, all other(1)",19-1099,1.0,0.5,0.8,0.4,24.6,23.6,49.3
+Astronomers(1),19-2011,0.0,0.0,0.0,0.0,13.9,25.6,60.5
+Physicists(1),19-2012,0.0,0.0,0.0,0.0,13.9,25.6,60.5
+Atmospheric and space scientists,19-2021,0.0,0.0,1.3,6.5,53.3,27.9,11.1
+Chemists(1),19-2031,0.1,1.8,2.0,1.9,49.6,24.1,20.5
+Materials scientists(1),19-2032,0.1,1.8,2.0,1.9,49.6,24.1,20.5
+"Environmental scientists and specialists, including health",19-2041,0.0,0.0,0.0,0.0,59.7,29.7,10.6
+"Geoscientists, except hydrologists and geographers(1)",19-2042,0.0,0.0,0.0,0.0,44.5,41.4,14.1
+Hydrologists(1),19-2043,0.0,0.0,0.0,0.0,44.5,41.4,14.1
+"Physical scientists, all other",19-2099,0.0,0.0,0.0,0.0,25.6,23.0,51.4
+Economists,19-3011,0.0,0.0,0.0,0.0,29.9,34.8,35.4
+Survey researchers(1),19-3022,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+"Clinical, counseling, and school psychologists(1)",19-3031,0.0,0.0,0.0,0.0,8.9,46.8,44.3
+Industrial-organizational psychologists(1),19-3032,0.0,0.0,0.0,0.0,9.4,39.9,50.7
+"Psychologists, all other(1)",19-3039,0.0,0.0,0.0,0.0,9.4,39.9,50.7
+Sociologists(1),19-3041,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+Urban and regional planners,19-3051,0.0,0.0,0.0,0.0,42.8,53.3,3.8
+Anthropologists and archeologists(1),19-3091,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+Geographers(1),19-3092,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+Historians(1),19-3093,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+Political scientists(1),19-3094,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+"Social scientists and related workers, all other(1)",19-3099,0.2,2.2,8.7,2.8,33.9,34.2,18.0
+Agricultural and food science technicians,19-4010,14.6,22.9,18.5,13.9,23.8,4.7,1.6
+Biological technicians,19-4021,5.0,16.2,21.8,23.7,20.4,8.8,4.0
+Chemical technicians,19-4031,2.6,26.0,23.6,10.7,28.2,6.8,2.2
+"Environmental science and protection technicians, including health(1)",19-4042,3.3,20.1,23.6,11.2,32.4,7.8,1.5
+Geological and hydrologic technicians(1),19-4045,3.3,20.1,23.6,11.2,32.4,7.8,1.5
+Nuclear technicians(1),19-4051,3.3,20.1,23.6,11.2,32.4,7.8,1.5
+Social science research assistants(1),19-4061,2.6,14.3,23.5,13.7,30.3,11.1,4.4
+Forest and conservation technicians(1),19-4071,2.6,14.3,23.5,13.7,30.3,11.1,4.4
+Forensic science technicians(1),19-4092,2.6,14.3,23.5,13.7,30.3,11.1,4.4
+"Life, physical, and social science technicians, all other(1)",19-4099,2.7,15.0,23.5,13.4,30.6,10.7,4.1
+Occupational health and safety specialists(1),19-5011,1.8,18.7,16.8,7.1,37.7,16.5,1.4
+Occupational health and safety technicians(1),19-5012,1.8,18.7,16.8,7.1,37.7,16.5,1.4
+"Educational, guidance, and career counselors and advisors",21-1012,0.6,3.6,5.0,2.0,22.9,60.1,5.7
+Marriage and family therapists,21-1013,0.9,3.5,3.9,4.1,21.5,60.0,6.0
+Rehabilitation counselors,21-1015,0.6,10.0,8.8,7.5,28.6,38.2,6.4
+"Substance abuse, behavioral disorder, and mental health counselors(1)",21-1018,0.7,3.4,6.7,4.8,27.1,52.9,4.4
+"Counselors, all other",21-1019,1.0,7.0,11.5,5.5,24.7,42.7,7.6
+"Child, family, and school social workers",21-1021,0.9,5.6,10.6,6.6,41.1,33.6,1.5
+Healthcare social workers,21-1022,2.5,12.5,17.1,9.7,28.3,28.2,1.7
+Mental health and substance abuse social workers,21-1023,0.0,1.4,4.6,1.1,13.1,69.5,10.3
+"Social workers, all other",21-1029,0.8,3.7,6.8,5.7,43.8,37.1,2.0
+Health education specialists(1),21-1091,2.0,13.5,16.0,8.1,38.0,18.6,3.7
+Probation officers and correctional treatment specialists,21-1092,0.9,2.8,8.2,3.3,63.8,18.8,2.2
+Social and human service assistants,21-1093,2.1,14.0,21.2,11.4,34.6,14.9,1.8
+Community health workers(1),21-1094,2.0,13.5,16.0,8.1,38.0,18.6,3.7
+"Community and social service specialists, all other(1)",21-1099,2.0,13.5,16.0,8.1,38.0,18.6,3.7
+Clergy,21-2011,2.1,5.9,10.6,4.9,25.8,34.9,15.8
+"Directors, religious activities and education",21-2021,1.8,7.7,17.8,9.7,38.3,21.3,3.3
+"Religious workers, all other",21-2099,2.2,14.1,18.5,8.7,28.2,22.2,6.1
+Lawyers(1),23-1011,0.2,0.4,0.7,0.5,5.5,4.3,88.4
+Judicial law clerks,23-1012,0.0,2.8,5.3,5.7,9.3,4.9,72.0
+"Administrative law judges, adjudicators, and hearing officers(1)",23-1021,0.2,0.4,0.7,0.5,5.5,4.3,88.4
+"Arbitrators, mediators, and conciliators(1)",23-1022,0.2,0.4,0.7,0.5,5.5,4.3,88.4
+"Judges, magistrate judges, and magistrates(1)",23-1023,0.2,0.4,0.7,0.5,5.5,4.3,88.4
+Paralegals and legal assistants,23-2011,0.7,10.6,22.5,19.1,36.5,7.2,3.3
+"Title examiners, abstractors, and searchers",23-2093,2.2,24.4,27.4,11.2,25.1,6.4,3.3
+"Legal support workers, all other",23-2099,2.3,10.4,18.5,6.9,39.8,11.9,10.1
+"Business teachers, postsecondary(1)",25-1011,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Computer science teachers, postsecondary(1)",25-1021,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Mathematical science teachers, postsecondary(1)",25-1022,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Architecture teachers, postsecondary(1)",25-1031,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Engineering teachers, postsecondary(1)",25-1032,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Agricultural sciences teachers, postsecondary(1)",25-1041,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Biological science teachers, postsecondary(1)",25-1042,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Forestry and conservation science teachers, postsecondary(1)",25-1043,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Atmospheric, earth, marine, and space sciences teachers, postsecondary(1)",25-1051,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Chemistry teachers, postsecondary(1)",25-1052,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Environmental science teachers, postsecondary(1)",25-1053,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Physics teachers, postsecondary(1)",25-1054,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Anthropology and archeology teachers, postsecondary(1)",25-1061,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Area, ethnic, and cultural studies teachers, postsecondary(1)",25-1062,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Economics teachers, postsecondary(1)",25-1063,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Geography teachers, postsecondary(1)",25-1064,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Political science teachers, postsecondary(1)",25-1065,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Psychology teachers, postsecondary(1)",25-1066,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Sociology teachers, postsecondary(1)",25-1067,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Social sciences teachers, postsecondary, all other(1)",25-1069,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Health specialties teachers, postsecondary(1)",25-1071,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Nursing instructors and teachers, postsecondary(1)",25-1072,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Education teachers, postsecondary(1)",25-1081,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Library science teachers, postsecondary(1)",25-1082,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Criminal justice and law enforcement teachers, postsecondary(1)",25-1111,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Law teachers, postsecondary(1)",25-1112,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Social work teachers, postsecondary(1)",25-1113,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Art, drama, and music teachers, postsecondary(1)",25-1121,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Communications teachers, postsecondary(1)",25-1122,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"English language and literature teachers, postsecondary(1)",25-1123,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Foreign language and literature teachers, postsecondary(1)",25-1124,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"History teachers, postsecondary(1)",25-1125,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Philosophy and religion teachers, postsecondary(1)",25-1126,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Family and consumer sciences teachers, postsecondary(1)",25-1192,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Recreation and fitness studies teachers, postsecondary(1)",25-1193,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Career/technical education teachers, postsecondary(1)",25-1194,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Postsecondary teachers, all other(1)",25-1199,0.5,1.3,2.2,1.7,14.6,32.0,47.9
+"Preschool teachers, except special education(1)",25-2011,1.6,13.7,22.7,15.1,33.9,12.0,1.0
+"Kindergarten teachers, except special education(1)",25-2012,1.6,13.7,22.7,15.1,33.9,12.0,1.0
+"Elementary school teachers, except special education(1)",25-2021,0.0,0.0,3.1,2.3,42.9,47.3,4.3
+"Middle school teachers, except special and career/technical education(1)",25-2022,0.0,0.0,3.1,2.3,42.9,47.3,4.3
+"Career/technical education teachers, middle school(1)",25-2023,0.0,0.0,3.1,2.3,42.9,47.3,4.3
+"Secondary school teachers, except special and career/technical education(1)",25-2031,0.0,0.0,2.5,1.8,40.0,50.8,4.9
+"Career/technical education teachers, secondary school(1)",25-2032,0.0,0.0,2.5,1.8,40.0,50.8,4.9
+"Special education teachers, preschool(1)",25-2051,0.3,4.8,6.8,4.7,33.9,46.5,3.0
+"Special education teachers, kindergarten and elementary school(1)",25-2052,0.3,4.8,6.8,4.7,33.9,46.5,3.0
+"Special education teachers, middle school(1)",25-2057,0.3,4.8,6.8,4.7,33.9,46.5,3.0
+"Special education teachers, secondary school(1)",25-2058,0.3,4.8,6.8,4.7,33.9,46.5,3.0
+"Special education teachers, all other(1)",25-2059,0.3,4.8,6.8,4.7,33.9,46.5,3.0
+"Adult basic education, adult secondary education, and English as a Second Language instructors(1)",25-3011,2.2,10.8,17.9,9.3,34.8,20.5,4.5
+Self-enrichment teachers(1),25-3021,2.2,10.8,17.9,9.3,34.8,20.5,4.5
+"Substitute teachers, short-term(1)",25-3031,2.2,10.8,17.9,9.3,34.8,20.5,4.5
+"Tutors and teachers and instructors, all other",25-3097,1.2,3.9,10.2,6.4,44.5,28.5,5.3
+Archivists(1),25-4011,1.8,5.8,8.2,4.1,35.9,36.0,8.2
+Curators(1),25-4012,1.8,5.8,8.2,4.1,35.9,36.0,8.2
+Museum technicians and conservators(1),25-4013,1.8,5.8,8.2,4.1,35.9,36.0,8.2
+Librarians and media collections specialists,25-4022,0.1,2.3,7.4,5.3,22.6,57.5,4.8
+Library technicians,25-4031,1.1,34.7,18.2,9.2,25.2,10.3,1.3
+Farm and home management educators(1),25-9021,0.8,5.6,8.1,5.2,29.5,42.3,8.5
+Instructional coordinators(1),25-9031,0.8,5.6,8.1,5.2,29.5,42.3,8.5
+"Teaching assistants, postsecondary(1)",25-9044,4.3,26.4,24.8,14.3,22.1,6.8,1.3
+"Teaching assistants, except postsecondary(1)",25-9045,4.3,26.4,24.8,14.3,22.1,6.8,1.3
+"Educational instruction and library workers, all other(1)",25-9099,0.8,5.6,8.1,5.2,29.5,42.3,8.5
+Art directors(1),27-1011,2.2,11.0,19.0,7.4,45.6,13.2,1.6
+Craft artists(1),27-1012,2.2,11.0,19.0,7.4,45.6,13.2,1.6
+"Fine artists, including painters, sculptors, and illustrators(1)",27-1013,2.2,11.0,19.0,7.4,45.6,13.2,1.6
+Special effects artists and animators(1),27-1014,2.2,11.0,19.0,7.4,45.6,13.2,1.6
+"Artists and related workers, all other(1)",27-1019,2.2,11.0,19.0,7.4,45.6,13.2,1.6
+Commercial and industrial designers,27-1021,0.5,5.2,15.6,8.0,56.8,13.6,0.3
+Fashion designers,27-1022,4.3,9.5,12.9,16.7,48.7,7.2,0.6
+Floral designers,27-1023,10.4,36.5,21.0,10.4,17.9,3.4,0.4
+Graphic designers,27-1024,1.4,5.4,13.8,12.1,58.0,7.9,1.4
+Interior designers,27-1025,1.0,6.5,14.5,12.3,54.1,9.4,2.2
+Merchandise displayers and window trimmers,27-1026,2.5,32.4,35.9,3.9,19.5,5.2,0.6
+Set and exhibit designers(1),27-1027,1.6,7.2,16.7,12.4,45.7,13.5,2.9
+"Designers, all other(1)",27-1029,1.6,7.2,16.7,12.4,45.7,13.5,2.9
+Actors,27-2011,1.5,16.0,15.5,3.8,48.0,14.2,1.0
+Producers and directors,27-2012,0.7,5.0,14.3,5.5,58.6,13.5,2.4
+Athletes and sports competitors,27-2021,2.0,15.8,23.0,11.8,42.6,2.8,2.0
+Coaches and scouts,27-2022,1.1,9.8,18.2,5.6,39.1,23.6,2.6
+"Umpires, referees, and other sports officials",27-2023,5.3,18.3,21.2,7.7,23.8,20.2,3.4
+Dancers(1),27-2031,3.2,35.2,21.5,12.6,22.1,5.0,0.4
+Choreographers(1),27-2032,3.2,35.2,21.5,12.6,22.1,5.0,0.4
+Music directors and composers,27-2041,2.3,8.5,14.7,2.9,39.3,27.9,4.5
+Musicians and singers,27-2042,5.5,13.9,22.8,5.2,29.2,19.4,3.9
+"Miscellaneous entertainers and performers, sports and related workers(1)",27-2090,5.2,24.2,20.3,7.1,32.5,8.3,2.4
+Broadcast announcers and radio disc jockeys,27-3011,2.0,12.0,20.4,11.1,41.2,12.2,1.1
+"News analysts, reporters, and journalists",27-3023,1.2,2.0,7.4,4.4,63.3,18.4,3.3
+Public relations specialists,27-3031,0.0,3.5,9.8,4.2,54.7,23.3,4.5
+Editors,27-3041,1.2,3.8,7.9,4.8,53.5,23.7,5.1
+Technical writers,27-3042,0.5,4.4,10.7,6.4,47.6,22.6,7.8
+Writers and authors,27-3043,0.7,3.3,8.7,3.1,51.3,25.1,7.8
+Interpreters and translators,27-3091,3.4,10.2,18.3,12.0,33.8,17.7,4.6
+Court reporters and simultaneous captioners,27-3092,1.9,15.0,29.8,35.9,13.6,2.1,1.6
+"Media and communication workers, all other",27-3099,1.2,7.0,20.6,9.5,41.6,17.7,2.5
+Audio and video technicians(1),27-4011,2.1,14.2,25.8,13.2,38.0,6.1,0.5
+Broadcast technicians(1),27-4012,2.1,14.2,25.8,13.2,38.0,6.1,0.5
+Sound engineering technicians(1),27-4014,2.1,14.2,25.8,13.2,38.0,6.1,0.5
+Photographers,27-4021,1.6,10.6,22.1,11.6,45.1,7.8,1.3
+"Camera operators, television, video, and film(1)",27-4031,1.7,10.5,15.6,8.6,52.1,10.6,1.0
+Film and video editors(1),27-4032,1.7,10.5,15.6,8.6,52.1,10.6,1.0
+"Lighting technicians and media and communication equipment workers, all other(1)",27-4098,2.1,14.2,25.8,13.2,38.0,6.1,0.5
+Chiropractors,29-1011,0.0,1.7,1.4,1.2,5.4,2.5,87.8
+"Dentists, general(1)",29-1021,0.0,0.0,0.0,0.0,0.0,2.7,97.3
+Oral and maxillofacial surgeons(1),29-1022,0.0,0.0,0.0,0.0,0.0,2.7,97.3
+Orthodontists(1),29-1023,0.0,0.0,0.0,0.0,0.0,2.7,97.3
+Prosthodontists(1),29-1024,0.0,0.0,0.0,0.0,0.0,2.7,97.3
+"Dentists, all other specialists(1)",29-1029,0.0,0.0,0.0,0.0,0.0,2.7,97.3
+Dietitians and nutritionists,29-1031,2.2,10.3,6.1,4.2,38.3,31.2,7.5
+Optometrists,29-1041,0.0,0.0,0.0,0.0,0.0,4.3,95.7
+Pharmacists,29-1051,0.0,0.0,1.4,0.9,28.1,6.0,63.7
+Physician assistants,29-1071,1.0,2.5,2.2,3.3,18.3,57.6,15.1
+Podiatrists,29-1081,0.0,0.0,0.0,0.0,0.0,4.1,95.9
+Occupational therapists,29-1122,0.3,0.3,0.6,4.4,36.5,52.4,5.4
+Physical therapists,29-1123,0.1,0.9,0.5,3.3,28.9,24.7,41.6
+Radiation therapists,29-1124,0.0,0.0,8.8,43.4,39.0,5.6,3.3
+Recreational therapists,29-1125,0.0,9.6,6.5,6.2,60.3,16.9,0.6
+Respiratory therapists,29-1126,0.8,2.0,12.4,53.4,24.2,6.1,1.1
+Speech-language pathologists,29-1127,0.3,0.8,1.0,1.6,9.6,82.8,3.9
+Exercise physiologists(1),29-1128,0.1,2.1,3.7,6.7,24.2,56.2,7.1
+"Therapists, all other(1)",29-1129,0.1,2.1,3.7,6.7,24.2,56.2,7.1
+Veterinarians,29-1131,0.0,0.0,0.0,0.0,0.0,1.9,98.1
+Registered nurses,29-1141,0.4,1.0,4.0,30.2,51.9,10.1,2.4
+Nurse anesthetists,29-1151,0.3,0.0,0.4,1.6,8.6,74.9,14.3
+Nurse midwives(1),29-1161,0.4,0.5,0.9,1.1,7.4,73.7,16.1
+Nurse practitioners(1),29-1171,0.4,0.5,0.9,1.1,7.4,73.7,16.1
+Audiologists,29-1181,0.0,1.8,5.2,2.4,8.0,15.9,66.5
+Anesthesiologists(1),29-1211,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+Family medicine physicians(1),29-1215,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+General internal medicine physicians(1),29-1216,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+Obstetricians and gynecologists(1),29-1218,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+"Pediatricians, general(1)",29-1221,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+Psychiatrists(1),29-1223,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+"Physicians, all other; and ophthalmologists, except pediatric(1)",29-1228,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+"Surgeons, except ophthalmologists(1)",29-1248,0.0,0.0,0.0,0.0,0.0,0.0,100.0
+Dental hygienists,29-1292,0.8,3.5,7.6,49.9,32.7,2.8,2.6
+"Acupuncturists and healthcare diagnosing or treating practitioners, all other(1)",29-1298,1.3,1.6,6.6,2.7,19.0,40.2,28.5
+Clinical laboratory technologists and technicians,29-2010,1.4,9.5,21.6,19.8,37.6,6.9,3.3
+Cardiovascular technologists and technicians,29-2031,2.6,17.1,21.2,17.3,29.5,10.6,1.7
+Diagnostic medical sonographers,29-2032,1.5,5.3,12.8,37.6,33.7,7.0,2.2
+Nuclear medicine technologists(1),29-2033,1.7,1.8,6.4,19.4,53.2,14.7,2.8
+Radiologic technologists and technicians,29-2034,0.9,5.0,17.7,51.4,21.4,2.6,0.9
+Magnetic resonance imaging technologists,29-2035,1.3,5.3,11.1,38.5,32.6,9.9,1.3
+Emergency medical technicians and paramedics(1),29-2040,0.8,14.2,42.6,23.0,16.0,2.3,1.2
+Dietetic technicians(1),29-2051,10.4,34.9,26.5,16.0,10.8,1.0,0.5
+Pharmacy technicians,29-2052,1.3,28.5,33.4,17.7,15.8,2.1,1.1
+Psychiatric technicians,29-2053,0.4,14.1,32.8,14.0,28.8,8.6,1.3
+Surgical technologists,29-2055,1.4,11.8,34.2,39.6,11.5,1.3,0.2
+Veterinary technologists and technicians,29-2056,2.0,15.7,23.3,32.4,22.8,2.6,1.2
+Ophthalmic medical technicians(1),29-2057,10.4,34.9,26.5,16.0,10.8,1.0,0.5
+Licensed practical and licensed vocational nurses,29-2061,1.5,23.3,52.0,17.7,3.9,0.9,0.7
+"Opticians, dispensing",29-2081,2.0,25.2,30.7,18.5,18.2,2.6,2.8
+Orthotists and prosthetists(1),29-2091,1.6,17.5,25.9,19.7,25.4,6.5,3.3
+Hearing aid specialists(1),29-2092,1.6,17.5,25.9,19.7,25.4,6.5,3.3
+"Medical dosimetrists, medical records specialists, and health technologists and technicians, all other(1)",29-2098,1.2,14.6,24.7,20.0,26.4,10.4,2.7
+Athletic trainers(1),29-9091,1.5,6.6,11.7,8.9,35.2,30.7,5.4
+Genetic counselors(1),29-9092,1.5,6.6,11.7,8.9,35.2,30.7,5.4
+"Health information technologists, medical registrars, surgical assistants, and healthcare practitioners and technical workers, all other(1)",29-9098,1.5,6.6,11.7,8.9,35.2,30.7,5.4
+Home health and personal care aides(1),31-1120,16.4,35.7,25.5,9.0,10.4,2.2,0.7
+Nursing assistants,31-1131,11.4,35.8,32.5,11.4,6.9,1.4,0.6
+Orderlies(1),31-1132,6.3,31.7,32.9,12.9,11.7,3.9,0.6
+Psychiatric aides(1),31-1133,6.3,31.7,32.9,12.9,11.7,3.9,0.6
+Occupational therapy assistants(1),31-2011,3.1,11.7,18.6,48.2,13.9,4.0,0.5
+Occupational therapy aides(1),31-2012,3.1,11.7,18.6,48.2,13.9,4.0,0.5
+Physical therapist assistants(1),31-2021,1.5,5.5,13.2,48.6,26.8,2.7,1.7
+Physical therapist aides(1),31-2022,1.5,5.5,13.2,48.6,26.8,2.7,1.7
+Massage therapists,31-9011,3.3,20.9,34.3,18.9,18.2,3.2,1.3
+Dental assistants,31-9091,2.2,26.0,38.1,20.1,10.3,1.3,1.9
+Medical assistants,31-9092,1.9,20.4,40.8,24.9,9.4,1.4,1.2
+Medical equipment preparers(1),31-9093,7.1,30.9,30.6,10.6,15.2,4.1,1.4
+Medical transcriptionists,31-9094,1.5,14.1,32.9,17.3,25.6,6.9,1.6
+Pharmacy aides,31-9095,3.2,24.4,26.0,14.9,21.2,3.0,7.3
+Veterinary assistants and laboratory animal caretakers,31-9096,4.0,25.6,25.0,12.4,28.4,3.1,1.4
+Phlebotomists,31-9097,1.8,24.2,44.2,18.0,10.6,1.1,0.2
+"Healthcare support workers, all other(1)",31-9099,7.1,30.9,30.6,10.6,15.2,4.1,1.4
+First-line supervisors of correctional officers,33-1011,1.1,24.9,32.7,12.0,22.6,6.3,0.3
+First-line supervisors of police and detectives,33-1012,0.4,10.1,24.7,16.8,33.1,13.6,1.2
+First-line supervisors of firefighting and prevention workers,33-1021,0.5,13.8,28.2,22.8,25.6,8.3,0.8
+"Miscellaneous first-line supervisors, protective service workers",33-1090,2.3,20.2,30.1,13.2,22.9,9.5,1.7
+Firefighters,33-2011,0.5,15.4,37.4,23.0,20.9,2.4,0.4
+Fire inspectors and investigators(1),33-2021,3.0,20.6,33.2,16.8,22.3,4.1,0.0
+Forest fire inspectors and prevention specialists(1),33-2022,3.0,20.6,33.2,16.8,22.3,4.1,0.0
+Bailiffs,33-3011,0.4,16.7,31.6,11.6,31.0,6.3,2.4
+Correctional officers and jailers,33-3012,0.8,32.1,34.0,14.7,15.2,2.9,0.3
+Detectives and criminal investigators,33-3021,0.5,7.2,21.0,11.4,41.1,15.7,3.2
+Fish and game wardens(1),33-3031,2.1,18.9,32.7,17.9,26.4,1.7,0.4
+Parking enforcement workers(1),33-3041,2.1,18.9,32.7,17.9,26.4,1.7,0.4
+Police and sheriff's patrol officers(1),33-3051,0.7,12.5,30.8,17.8,31.3,6.3,0.6
+Transit and railroad police(1),33-3052,0.7,12.5,30.8,17.8,31.3,6.3,0.6
+Animal control workers,33-9011,1.4,23.7,32.3,10.1,30.4,2.1,0.0
+Private detectives and investigators,33-9021,0.5,14.2,19.6,10.7,34.3,16.5,4.2
+Gambling surveillance officers and gambling investigators(1),33-9031,6.3,35.2,29.7,11.0,14.3,3.0,0.5
+Security guards(1),33-9032,6.3,35.2,29.7,11.0,14.3,3.0,0.5
+Crossing guards and flaggers,33-9091,12.3,45.0,25.0,7.3,7.7,2.0,0.8
+"Lifeguards, ski patrol, and other recreational protective service workers(1)",33-9092,2.0,17.3,24.8,11.8,33.6,9.6,1.0
+Transportation security screeners,33-9093,0.9,16.9,28.8,14.5,29.7,8.0,1.2
+"School bus monitors and protective service workers, all other(1)",33-9098,12.8,33.7,21.8,8.7,17.6,5.0,0.5
+Chefs and head cooks,35-1011,16.2,28.6,23.7,16.2,13.2,1.7,0.5
+First-line supervisors of food preparation and serving workers,35-1012,11.4,35.4,28.2,10.1,12.5,2.0,0.5
+"Cooks, fast food(1)",35-2011,27.6,41.2,18.8,6.0,5.3,0.8,0.2
+"Cooks, institution and cafeteria(1)",35-2012,27.6,41.2,18.8,6.0,5.3,0.8,0.2
+"Cooks, private household(1)",35-2013,27.6,41.2,18.8,6.0,5.3,0.8,0.2
+"Cooks, restaurant(1)",35-2014,27.6,41.2,18.8,6.0,5.3,0.8,0.2
+"Cooks, short order(1)",35-2015,27.6,41.2,18.8,6.0,5.3,0.8,0.2
+"Cooks, all other(1)",35-2019,27.6,41.2,18.8,6.0,5.3,0.8,0.2
+Food preparation workers,35-2021,24.0,37.4,21.4,8.0,7.7,1.3,0.2
+Bartenders,35-3011,5.4,26.7,35.5,10.2,19.6,2.0,0.6
+Fast food and counter workers,35-3023,16.0,40.4,24.1,7.9,9.0,2.3,0.4
+Waiters and waitresses,35-3031,13.2,32.8,29.3,8.9,13.4,2.0,0.3
+"Food servers, nonrestaurant",35-3041,15.7,41.2,23.0,7.2,10.8,1.9,0.2
+Dining room and cafeteria attendants and bartender helpers,35-9011,21.6,43.0,18.5,6.8,8.7,1.0,0.3
+Dishwashers,35-9021,37.2,41.2,14.7,3.9,2.5,0.3,0.2
+"Hosts and hostesses, restaurant, lounge, and coffee shop",35-9031,9.6,32.1,27.4,11.6,16.5,1.9,0.9
+"Food preparation and serving related workers, all other",35-9099,13.8,30.6,39.1,1.3,14.9,0.3,0.0
+First-line supervisors of housekeeping and janitorial workers,37-1011,13.5,37.9,24.7,8.8,12.9,1.9,0.4
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,22.4,30.3,20.2,9.6,15.2,2.0,0.2
+"Janitors and cleaners, except maids and housekeeping cleaners(1)",37-2011,22.9,44.6,19.1,6.6,5.4,1.1,0.3
+Maids and housekeeping cleaners,37-2012,35.2,40.3,14.5,4.3,4.7,0.7,0.3
+"Building cleaning workers, all other(1)",37-2019,22.9,44.6,19.1,6.6,5.4,1.1,0.3
+Pest control workers,37-2021,10.7,41.5,29.8,5.9,10.7,0.6,0.9
+Landscaping and groundskeeping workers,37-3011,36.0,36.3,14.9,4.7,6.8,1.1,0.2
+"Pesticide handlers, sprayers, and applicators, vegetation(1)",37-3012,25.8,36.1,13.7,7.5,14.9,1.5,0.5
+Tree trimmers and pruners,37-3013,34.8,41.1,12.1,4.5,6.5,0.7,0.2
+"Grounds maintenance workers, all other(1)",37-3019,25.8,36.1,13.7,7.5,14.9,1.5,0.5
+First-line supervisors of gambling services workers(1),39-1013,4.8,30.8,29.6,10.6,19.5,3.8,0.8
+"First-line supervisors of personal service and entertainment and recreation workers, except gambling services(1)",39-1098,6.6,33.4,30.1,11.0,14.5,3.6,0.7
+Animal trainers,39-2011,8.0,27.1,24.6,7.0,28.0,4.6,0.7
+Animal caretakers,39-2021,6.8,31.8,26.3,9.6,20.6,3.6,1.3
+Gambling dealers(1),39-3011,8.2,35.1,29.5,8.9,15.4,2.0,0.9
+Gambling and sports book writers and runners(1),39-3012,8.2,35.1,29.5,8.9,15.4,2.0,0.9
+"Gambling service workers, all other(1)",39-3019,8.2,35.1,29.5,8.9,15.4,2.0,0.9
+Motion picture projectionists(1),39-3021,5.0,26.2,26.7,8.3,26.5,6.7,0.7
+"Ushers, lobby attendants, and ticket takers",39-3031,5.0,29.7,30.1,9.5,17.4,8.0,0.2
+Amusement and recreation attendants(1),39-3091,5.0,26.2,26.7,8.3,26.5,6.7,0.7
+Costume attendants(1),39-3092,5.0,26.2,26.7,8.3,26.5,6.7,0.7
+"Locker room, coatroom, and dressing room attendants(1)",39-3093,5.0,26.2,26.7,8.3,26.5,6.7,0.7
+"Entertainment attendants and related workers, all other(1)",39-3099,5.0,26.2,26.7,8.3,26.5,6.7,0.7
+Embalmers(1),39-4011,8.0,23.7,28.9,16.7,17.6,3.4,1.7
+Funeral attendants(1),39-4021,8.0,23.7,28.9,16.7,17.6,3.4,1.7
+"Morticians, undertakers, and funeral arrangers",39-4031,2.7,10.2,17.8,33.9,25.5,5.6,4.4
+Barbers,39-5011,9.7,49.6,27.1,8.5,4.5,0.4,0.2
+"Hairdressers, hairstylists, and cosmetologists",39-5012,6.4,43.6,31.6,11.7,5.7,0.9,0.2
+"Makeup artists, theatrical and performance(1)",39-5091,4.0,34.6,29.2,10.8,18.5,3.0,0.0
+Manicurists and pedicurists,39-5092,27.2,38.4,16.9,7.3,8.6,1.3,0.3
+Shampooers(1),39-5093,4.0,34.6,29.2,10.8,18.5,3.0,0.0
+Skincare specialists,39-5094,3.5,20.8,37.2,14.8,20.0,3.2,0.5
+Baggage porters and bellhops(1),39-6011,8.9,35.8,29.4,9.0,13.8,2.0,1.1
+Concierges(1),39-6012,8.9,35.8,29.4,9.0,13.8,2.0,1.1
+Tour and travel guides,39-7010,2.1,19.9,19.9,8.1,36.4,12.4,1.3
+Childcare workers,39-9011,11.2,31.6,26.6,11.5,15.4,3.1,0.6
+Exercise trainers and group fitness instructors,39-9031,2.1,8.3,19.8,9.8,44.6,12.1,3.4
+Recreation workers,39-9032,3.5,25.2,26.7,8.2,26.9,8.1,1.3
+Residential advisors,39-9041,3.4,17.0,30.7,14.4,25.7,7.1,1.7
+"Crematory operators and personal care and service workers, all other(1)",39-9098,9.8,28.6,27.5,10.1,18.9,4.3,1.0
+First-line supervisors of retail sales workers,41-1011,5.6,28.8,28.1,10.3,21.8,4.3,1.2
+First-line supervisors of non-retail sales workers,41-1012,5.0,20.3,22.2,8.2,32.6,10.0,1.7
+Cashiers(1),41-2011,13.9,41.1,24.4,8.2,10.1,1.8,0.4
+Gambling change persons and booth cashiers(1),41-2012,13.9,41.1,24.4,8.2,10.1,1.8,0.4
+Counter and rental clerks,41-2021,8.0,33.3,28.6,8.9,17.6,2.9,0.8
+Parts salespersons,41-2022,7.1,47.8,25.5,9.6,8.5,1.4,0.1
+Retail salespersons,41-2031,6.3,29.5,27.5,10.5,21.6,3.9,0.8
+Advertising sales agents,41-3011,1.1,12.0,19.4,6.8,51.3,7.9,1.6
+Insurance sales agents,41-3021,1.1,15.7,25.5,10.0,39.1,7.3,1.3
+"Securities, commodities, and financial services sales agents",41-3031,1.2,7.2,14.3,5.0,49.6,19.0,3.7
+Travel agents,41-3041,2.4,19.6,31.1,10.9,28.9,5.2,1.8
+"Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,2.1,12.7,21.5,8.5,44.5,9.3,1.4
+"Sales representatives, wholesale and manufacturing, technical and scientific products(1)",41-4011,2.9,17.3,22.1,8.4,40.7,7.8,0.9
+"Sales representatives, wholesale and manufacturing, except technical and scientific products(1)",41-4012,2.9,17.3,22.1,8.4,40.7,7.8,0.9
+Demonstrators and product promoters(1),41-9011,8.2,31.5,27.7,10.6,14.3,7.0,0.7
+Models(1),41-9012,8.2,31.5,27.7,10.6,14.3,7.0,0.7
+Real estate brokers(1),41-9021,1.1,11.8,26.2,10.6,38.6,9.6,2.1
+Real estate sales agents(1),41-9022,1.1,11.8,26.2,10.6,38.6,9.6,2.1
+Sales engineers,41-9031,0.5,2.8,13.8,8.0,55.3,16.7,2.9
+Telemarketers,41-9041,5.4,30.7,33.6,10.8,15.5,3.5,0.5
+"Door-to-door sales workers, news and street vendors, and related workers",41-9091,10.5,28.2,26.0,7.7,20.7,5.6,1.3
+"Sales and related workers, all other",41-9099,3.9,19.1,19.7,8.0,37.6,10.1,1.6
+First-line supervisors of office and administrative support workers,43-1011,2.3,20.1,26.7,12.8,27.9,8.8,1.5
+"Switchboard operators, including answering service",43-2011,3.8,32.0,28.7,14.4,17.5,3.5,0.0
+Telephone operators,43-2021,4.1,27.9,38.7,11.2,12.7,4.4,1.1
+"Communications equipment operators, all other",43-2099,3.3,26.0,22.6,7.7,29.0,11.0,0.5
+Bill and account collectors,43-3011,4.1,30.6,32.6,13.0,17.3,1.8,0.6
+Billing and posting clerks,43-3021,3.2,29.1,32.1,14.0,17.2,3.5,0.8
+"Bookkeeping, accounting, and auditing clerks",43-3031,3.9,26.1,37.3,11.3,17.6,3.1,0.6
+Gambling cage workers(1),43-3041,0.7,12.6,19.9,7.1,38.0,19.8,2.0
+Payroll and timekeeping clerks,43-3051,2.1,24.6,30.5,15.0,23.7,3.5,0.6
+Procurement clerks,43-3061,2.2,17.9,25.1,12.7,29.5,11.4,1.2
+Tellers,43-3071,1.9,32.1,34.4,12.9,16.6,1.8,0.3
+"Financial clerks, all other(1)",43-3099,0.7,12.6,19.9,7.1,38.0,19.8,2.0
+Brokerage clerks(1),43-4011,2.1,16.4,23.3,14.3,32.5,9.9,1.5
+Correspondence clerks(1),43-4021,7.0,34.8,26.0,10.4,17.8,3.0,0.9
+"Court, municipal, and license clerks",43-4031,1.6,25.7,32.0,13.9,21.1,4.8,0.7
+"Credit authorizers, checkers, and clerks",43-4041,1.2,22.6,28.9,10.8,28.0,5.3,3.2
+Customer service representatives,43-4051,3.8,26.2,29.8,12.3,23.2,4.1,0.7
+"Eligibility interviewers, government programs",43-4061,0.6,11.0,26.6,13.8,38.0,8.8,1.2
+File clerks,43-4071,4.5,25.5,28.8,12.3,22.6,5.5,0.8
+"Hotel, motel, and resort desk clerks",43-4081,8.2,27.4,32.3,12.9,16.0,2.1,1.1
+"Interviewers, except eligibility and loan",43-4111,2.6,20.9,29.9,14.1,23.4,7.8,1.3
+"Library assistants, clerical",43-4121,1.2,15.1,24.2,10.1,36.7,11.5,1.1
+Loan interviewers and clerks,43-4131,1.7,24.7,33.4,10.8,24.8,3.9,0.8
+New accounts clerks,43-4141,2.3,14.9,33.8,13.7,24.0,9.7,1.7
+Order clerks(1),43-4151,7.0,34.8,26.0,10.4,17.8,3.0,0.9
+"Human resources assistants, except payroll and timekeeping",43-4161,1.2,14.5,33.2,12.3,28.3,9.1,1.4
+Receptionists and information clerks,43-4171,3.8,32.3,32.4,13.7,14.7,2.5,0.5
+Reservation and transportation ticket agents and travel clerks,43-4181,2.2,24.7,29.8,15.5,23.3,3.8,0.6
+"Information and record clerks, all other(1)",43-4199,2.1,16.4,23.3,14.3,32.5,9.9,1.5
+Cargo and freight agents,43-5011,2.3,27.0,31.3,14.7,23.2,1.3,0.2
+Couriers and messengers,43-5021,8.1,33.1,32.6,10.1,14.0,1.7,0.5
+Public safety telecommunicators,43-5031,0.9,20.6,37.9,18.2,19.5,2.6,0.3
+"Dispatchers, except police, fire, and ambulance",43-5032,4.9,33.9,33.8,11.5,13.7,1.8,0.3
+"Meter readers, utilities",43-5041,3.2,43.2,27.7,20.0,4.3,1.6,0.0
+Postal service clerks,43-5051,3.0,32.1,38.0,12.3,12.0,2.1,0.5
+Postal service mail carriers,43-5052,2.0,35.8,36.5,11.1,12.3,2.0,0.2
+"Postal service mail sorters, processors, and processing machine operators",43-5053,2.9,32.8,35.0,15.7,10.8,2.5,0.2
+"Production, planning, and expediting clerks",43-5061,2.4,22.7,28.1,11.5,26.9,7.4,1.0
+"Shipping, receiving, and inventory clerks",43-5071,12.1,43.1,26.0,8.0,8.8,1.7,0.3
+"Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,11.9,38.2,28.2,9.3,10.5,1.7,0.1
+Executive secretaries and executive administrative assistants,43-6011,0.9,16.0,29.2,14.9,31.4,7.0,0.6
+Legal secretaries and administrative assistants,43-6012,1.1,23.0,33.3,18.3,20.4,3.3,0.4
+Medical secretaries and administrative assistants,43-6013,1.7,24.0,35.5,17.6,17.0,4.0,0.2
+"Secretaries and administrative assistants, except legal, medical, and executive",43-6014,2.6,27.1,31.3,14.9,19.9,3.7,0.6
+Data entry keyers,43-9021,1.8,25.8,31.5,14.6,22.6,3.2,0.5
+Word processors and typists,43-9022,3.5,27.0,29.4,12.8,21.4,4.7,1.2
+Desktop publishers(1),43-9031,2.1,18.7,26.7,12.3,28.1,10.5,1.6
+Insurance claims and policy processing clerks,43-9041,1.9,20.7,31.6,13.5,24.8,6.3,1.2
+"Mail clerks and mail machine operators, except postal service",43-9051,7.9,46.5,24.3,9.9,9.7,1.6,0.0
+"Office clerks, general",43-9061,2.9,28.9,30.5,13.3,19.0,4.4,0.9
+"Office machine operators, except computer",43-9071,5.7,33.7,32.2,15.3,11.6,1.0,0.6
+Proofreaders and copy markers,43-9081,1.2,12.1,10.2,9.4,55.7,10.1,1.3
+Statistical assistants,43-9111,2.9,15.7,25.5,9.4,30.0,15.3,1.2
+"Office and administrative support workers, all other(1)",43-9199,2.1,18.7,26.7,12.3,28.1,10.5,1.6
+"First-line supervisors of farming, fishing, and forestry workers",45-1011,33.8,28.2,14.9,5.0,13.2,4.5,0.5
+Agricultural inspectors,45-2011,8.3,30.5,20.4,6.4,29.2,2.4,2.9
+Animal breeders(1),45-2021,49.5,28.4,10.5,3.9,6.3,1.0,0.4
+"Graders and sorters, agricultural products",45-2041,54.1,27.3,9.4,3.8,4.8,0.6,0.0
+Agricultural equipment operators(1),45-2091,49.5,28.4,10.5,3.9,6.3,1.0,0.4
+"Farmworkers and laborers, crop, nursery, and greenhouse(1)",45-2092,49.5,28.4,10.5,3.9,6.3,1.0,0.4
+"Farmworkers, farm, ranch, and aquacultural animals(1)",45-2093,49.5,28.4,10.5,3.9,6.3,1.0,0.4
+"Agricultural workers, all other(1)",45-2099,49.5,28.4,10.5,3.9,6.3,1.0,0.4
+Fishing and hunting workers,45-3031,18.1,41.7,21.3,6.9,9.8,1.8,0.4
+Forest and conservation workers,45-4011,25.9,26.2,9.8,13.3,23.3,0.9,0.6
+Fallers(1),45-4021,27.3,50.7,14.4,5.1,2.2,0.4,0.0
+Logging equipment operators(1),45-4022,27.3,50.7,14.4,5.1,2.2,0.4,0.0
+Log graders and scalers(1),45-4023,27.3,50.7,14.4,5.1,2.2,0.4,0.0
+"Logging workers, all other(1)",45-4029,27.3,50.7,14.4,5.1,2.2,0.4,0.0
+First-line supervisors of construction trades and extraction workers,47-1011,14.7,41.9,24.4,7.1,9.8,1.8,0.3
+Boilermakers,47-2011,21.8,46.9,24.2,5.0,2.1,0.0,0.0
+Brickmasons and blockmasons(1),47-2021,34.6,40.7,15.8,4.4,3.8,0.7,0.0
+Stonemasons(1),47-2022,34.6,40.7,15.8,4.4,3.8,0.7,0.0
+Carpenters,47-2031,26.4,41.9,18.9,5.5,6.2,0.9,0.3
+Carpet installers(1),47-2041,32.0,45.4,14.4,2.2,5.5,0.5,0.0
+"Floor layers, except carpet, wood, and hard tiles(1)",47-2042,32.0,45.4,14.4,2.2,5.5,0.5,0.0
+Floor sanders and finishers(1),47-2043,32.0,45.4,14.4,2.2,5.5,0.5,0.0
+Tile and stone setters(1),47-2044,32.0,45.4,14.4,2.2,5.5,0.5,0.0
+Cement masons and concrete finishers(1),47-2051,34.2,42.3,15.9,2.9,4.6,0.1,0.0
+Terrazzo workers and finishers(1),47-2053,34.2,42.3,15.9,2.9,4.6,0.1,0.0
+Construction laborers,47-2061,31.6,40.5,16.5,5.1,5.3,0.8,0.2
+"Paving, surfacing, and tamping equipment operators(1)",47-2071,20.6,53.8,17.9,5.1,2.4,0.2,0.1
+Pile driver operators(1),47-2072,20.6,53.8,17.9,5.1,2.4,0.2,0.1
+Operating engineers and other construction equipment operators(1),47-2073,20.6,53.8,17.9,5.1,2.4,0.2,0.1
+Drywall and ceiling tile installers(1),47-2081,49.3,37.3,10.0,2.1,1.1,0.2,0.0
+Tapers(1),47-2082,49.3,37.3,10.0,2.1,1.1,0.2,0.0
+Electricians,47-2111,7.2,36.7,32.7,15.8,6.7,0.8,0.2
+Glaziers,47-2121,14.3,56.5,18.0,5.6,5.4,0.2,0.0
+"Insulation workers, floor, ceiling, and wall(1)",47-2131,23.2,49.4,18.0,3.8,5.1,0.5,0.0
+"Insulation workers, mechanical(1)",47-2132,23.2,49.4,18.0,3.8,5.1,0.5,0.0
+"Painters, construction and maintenance(1)",47-2141,34.8,38.9,15.6,4.0,5.5,0.9,0.3
+Paperhangers(1),47-2142,34.8,38.9,15.6,4.0,5.5,0.9,0.3
+Pipelayers,47-2151,24.6,38.9,23.4,7.0,4.6,1.0,0.5
+"Plumbers, pipefitters, and steamfitters",47-2152,15.1,46.6,25.7,8.0,3.7,0.6,0.3
+Plasterers and stucco masons,47-2161,49.3,31.7,11.0,6.0,1.7,0.2,0.0
+Reinforcing iron and rebar workers(1),47-2171,34.6,40.7,15.8,4.4,3.8,0.7,0.0
+Roofers,47-2181,43.4,38.8,12.9,2.0,2.5,0.2,0.1
+Sheet metal workers,47-2211,13.7,45.8,25.6,9.9,4.1,0.8,0.1
+Structural iron and steel workers,47-2221,12.7,52.5,27.8,3.1,3.7,0.3,0.0
+Solar photovoltaic installers,47-2231,11.7,27.7,37.2,15.0,6.2,2.2,0.0
+"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters(1)",47-3011,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+Helpers--carpenters(1),47-3012,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+Helpers--electricians(1),47-3013,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+"Helpers--painters, paperhangers, plasterers, and stucco masons(1)",47-3014,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+"Helpers--pipelayers, plumbers, pipefitters, and steamfitters(1)",47-3015,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+Helpers--roofers(1),47-3016,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+"Helpers, construction trades, all other(1)",47-3019,34.4,33.9,20.3,4.3,6.1,0.7,0.3
+Construction and building inspectors,47-4011,1.6,23.3,31.5,14.1,22.0,6.7,0.8
+Elevator and escalator installers and repairers,47-4021,1.9,38.9,34.8,10.9,12.2,1.2,0.0
+Fence erectors,47-4031,29.3,42.8,19.1,4.3,4.3,0.2,0.0
+Hazardous materials removal workers,47-4041,14.7,50.7,20.4,4.7,7.4,2.2,0.0
+Highway maintenance workers,47-4051,14.2,53.7,20.1,8.0,3.4,0.4,0.2
+Rail-track laying and maintenance equipment operators,47-4061,10.4,63.2,20.4,4.4,1.7,0.0,0.0
+Septic tank servicers and sewer pipe cleaners(1),47-4071,27.6,42.7,17.2,5.7,6.1,0.3,0.3
+Miscellaneous construction and related workers(1),47-4090,27.6,42.7,17.2,5.7,6.1,0.3,0.3
+"Derrick operators, oil and gas(1)",47-5011,15.4,49.8,25.6,4.4,4.4,0.4,0.0
+"Rotary drill operators, oil and gas(1)",47-5012,15.4,49.8,25.6,4.4,4.4,0.4,0.0
+"Service unit operators, oil and gas(1)",47-5013,15.4,49.8,25.6,4.4,4.4,0.4,0.0
+"Excavating and loading machine and dragline operators, surface mining(1)",47-5022,22.4,49.3,17.7,5.5,4.7,0.2,0.1
+Continuous mining machine operators(1),47-5041,11.1,55.1,22.4,7.6,3.2,0.6,0.0
+"Roof bolters, mining(1)",47-5043,11.1,55.1,22.4,7.6,3.2,0.6,0.0
+"Loading and moving machine operators, underground mining(1)",47-5044,11.1,55.1,22.4,7.6,3.2,0.6,0.0
+"Rock splitters, quarry(1)",47-5051,15.8,46.1,24.4,4.1,8.8,0.7,0.0
+"Roustabouts, oil and gas(1)",47-5071,15.4,49.8,25.6,4.4,4.4,0.4,0.0
+Helpers--extraction workers(1),47-5081,15.8,46.1,24.4,4.1,8.8,0.7,0.0
+"Earth drillers, except oil and gas; and explosives workers, ordnance handling experts, and blasters(1)",47-5097,20.3,51.7,17.7,4.3,4.9,0.8,0.3
+"Underground mining machine operators and extraction workers, all other(1)",47-5098,14.1,49.4,23.6,5.4,6.8,0.7,0.0
+"First-line supervisors of mechanics, installers, and repairers",49-1011,7.1,36.9,28.5,11.8,11.7,3.5,0.4
+"Computer, automated teller, and office machine repairers",49-2011,3.5,19.1,33.6,18.3,22.0,2.8,0.7
+"Radio, cellular, and tower equipment installers and repairers(1)",49-2021,4.2,29.8,33.2,17.7,12.9,2.1,0.2
+"Telecommunications equipment installers and repairers, except line installers(1)",49-2022,4.2,29.8,33.2,17.7,12.9,2.1,0.2
+Avionics technicians,49-2091,0.6,19.5,46.0,22.6,9.6,1.7,0.0
+"Electric motor, power tool, and related repairers",49-2092,10.5,42.5,27.3,11.0,7.4,1.3,0.0
+"Electrical and electronics installers and repairers, transportation equipment(1)",49-2093,6.1,24.4,33.0,18.7,16.8,0.9,0.0
+"Electrical and electronics repairers, commercial and industrial equipment(1)",49-2094,6.1,24.4,33.0,18.7,16.8,0.9,0.0
+"Electrical and electronics repairers, powerhouse, substation, and relay(1)",49-2095,6.1,24.4,33.0,18.7,16.8,0.9,0.0
+"Electronic equipment installers and repairers, motor vehicles(1)",49-2096,6.1,24.4,33.0,18.7,16.8,0.9,0.0
+Audiovisual equipment installers and repairers,49-2097,5.4,35.3,32.2,12.4,13.5,1.3,0.0
+Security and fire alarm systems installers,49-2098,6.9,34.0,33.2,14.8,10.2,0.8,0.1
+Aircraft mechanics and service technicians,49-3011,1.9,24.7,38.6,21.6,11.2,1.3,0.5
+Automotive body and related repairers,49-3021,20.9,46.5,19.2,9.5,3.2,0.4,0.1
+Automotive glass installers and repairers,49-3022,17.1,47.4,32.0,1.6,1.1,0.0,0.7
+Automotive service technicians and mechanics,49-3023,16.6,43.0,23.3,12.2,4.2,0.4,0.2
+Bus and truck mechanics and diesel engine specialists,49-3031,13.0,46.4,22.7,14.1,3.3,0.4,0.1
+Farm equipment mechanics and service technicians(1),49-3041,12.5,45.6,23.8,13.9,3.3,0.6,0.4
+"Mobile heavy equipment mechanics, except engines(1)",49-3042,12.5,45.6,23.8,13.9,3.3,0.6,0.4
+Rail car repairers(1),49-3043,12.5,45.6,23.8,13.9,3.3,0.6,0.4
+Motorboat mechanics and service technicians(1),49-3051,15.7,43.9,23.9,10.9,3.3,0.6,1.8
+Motorcycle mechanics(1),49-3052,15.7,43.9,23.9,10.9,3.3,0.6,1.8
+Outdoor power equipment and other small engine mechanics(1),49-3053,15.7,43.9,23.9,10.9,3.3,0.6,1.8
+Bicycle repairers(1),49-3091,21.3,47.1,23.1,3.8,3.6,1.0,0.1
+Recreational vehicle service technicians(1),49-3092,21.3,47.1,23.1,3.8,3.6,1.0,0.1
+Tire repairers and changers(1),49-3093,21.3,47.1,23.1,3.8,3.6,1.0,0.1
+Mechanical door repairers(1),49-9011,5.0,40.0,31.2,17.8,5.4,0.6,0.0
+"Control and valve installers and repairers, except mechanical door(1)",49-9012,5.0,40.0,31.2,17.8,5.4,0.6,0.0
+"Heating, air conditioning, and refrigeration mechanics and installers",49-9021,10.6,40.0,29.2,13.8,5.3,0.8,0.2
+Home appliance repairers,49-9031,13.3,41.1,31.2,8.0,5.2,0.8,0.4
+Industrial machinery mechanics(1),49-9041,9.8,42.5,26.7,15.0,5.4,0.6,0.0
+"Maintenance workers, machinery",49-9043,8.9,41.3,28.0,11.3,9.2,1.1,0.2
+Millwrights,49-9044,6.4,42.8,29.6,14.9,5.9,0.3,0.1
+"Refractory materials repairers, except brickmasons(1)",49-9045,9.8,42.5,26.7,15.0,5.4,0.6,0.0
+Electrical power-line installers and repairers,49-9051,4.5,39.0,33.0,18.6,3.6,1.0,0.4
+Telecommunications line installers and repairers,49-9052,6.0,38.8,30.2,12.6,11.2,1.1,0.1
+Camera and photographic equipment repairers(1),49-9061,3.7,23.5,29.7,19.7,18.9,3.8,0.7
+Medical equipment repairers(1),49-9062,3.7,23.5,29.7,19.7,18.9,3.8,0.7
+Musical instrument repairers and tuners(1),49-9063,3.7,23.5,29.7,19.7,18.9,3.8,0.7
+Watch and clock repairers(1),49-9064,3.7,23.5,29.7,19.7,18.9,3.8,0.7
+"Precision instrument and equipment repairers, all other(1)",49-9069,3.7,23.5,29.7,19.7,18.9,3.8,0.7
+"Maintenance and repair workers, general",49-9071,11.2,40.3,27.0,12.9,7.5,0.9,0.3
+Wind turbine service technicians(1),49-9081,12.9,40.1,25.8,10.2,9.2,1.5,0.1
+"Coin, vending, and amusement machine servicers and repairers",49-9091,6.4,42.5,32.7,8.7,8.7,0.7,0.3
+Commercial divers(1),49-9092,12.9,40.1,25.8,10.2,9.2,1.5,0.1
+Locksmiths and safe repairers,49-9094,7.2,39.9,31.3,9.6,10.6,1.1,0.3
+Manufactured building and mobile home installers(1),49-9095,12.9,40.1,25.8,10.2,9.2,1.5,0.1
+Riggers,49-9096,5.2,37.1,30.0,13.4,13.2,1.0,0.0
+Signal and track switch repairers(1),49-9097,12.9,40.1,25.8,10.2,9.2,1.5,0.1
+"Helpers--installation, maintenance, and repair workers",49-9098,35.1,41.3,15.2,5.4,1.4,0.0,1.6
+"Installation, maintenance, and repair workers, all other(1)",49-9099,12.9,40.1,25.8,10.2,9.2,1.5,0.1
+First-line supervisors of production and operating workers,51-1011,9.8,37.9,25.0,9.1,14.0,3.5,0.7
+"Aircraft structure, surfaces, rigging, and systems assemblers(1)",51-2011,16.8,45.0,24.1,7.4,5.7,0.8,0.1
+"Coil winders, tapers, and finishers(1)",51-2021,17.6,45.6,19.2,8.4,7.8,0.8,0.7
+"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers(1)",51-2028,17.6,45.6,19.2,8.4,7.8,0.8,0.7
+Engine and other machine assemblers,51-2031,10.9,50.2,32.8,4.6,1.5,0.0,0.0
+Structural metal fabricators and fitters,51-2041,11.2,45.3,28.3,10.1,4.6,0.5,0.0
+Fiberglass laminators and fabricators(1),51-2051,16.8,45.0,24.1,7.4,5.7,0.8,0.1
+Timing device assemblers and adjusters(1),51-2061,16.8,45.0,24.1,7.4,5.7,0.8,0.1
+Miscellaneous assemblers and fabricators(1),51-2090,16.8,45.0,24.1,7.4,5.7,0.8,0.1
+Bakers,51-3011,21.4,35.6,20.6,9.4,11.3,1.6,0.2
+Butchers and meat cutters(1),51-3021,29.8,43.5,17.4,4.8,3.6,0.7,0.1
+"Meat, poultry, and fish cutters and trimmers(1)",51-3022,29.8,43.5,17.4,4.8,3.6,0.7,0.1
+Slaughterers and meat packers(1),51-3023,29.8,43.5,17.4,4.8,3.6,0.7,0.1
+"Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,7.0,44.9,23.0,9.0,11.9,3.1,1.2
+Food batchmakers,51-3092,20.1,42.9,17.7,9.7,7.4,1.9,0.3
+Food cooking machine operators and tenders,51-3093,23.3,41.8,25.0,8.4,1.4,0.0,0.0
+"Food processing workers, all other",51-3099,24.2,44.4,20.3,4.6,5.7,0.4,0.3
+"Extruding and drawing machine setters, operators, and tenders, metal and plastic(1)",51-4021,13.1,47.6,28.1,4.1,6.5,0.7,0.0
+"Forging machine setters, operators, and tenders, metal and plastic(1)",51-4022,13.1,47.6,28.1,4.1,6.5,0.7,0.0
+"Rolling machine setters, operators, and tenders, metal and plastic(1)",51-4023,13.1,47.6,28.1,4.1,6.5,0.7,0.0
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,17.7,51.9,19.9,6.2,3.2,0.8,0.4
+"Drilling and boring machine tool setters, operators, and tenders, metal and plastic(1)",51-4032,19.3,56.6,19.6,2.6,0.7,1.2,0.0
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51-4033,25.2,50.9,15.8,3.8,3.4,0.6,0.3
+"Lathe and turning machine tool setters, operators, and tenders, metal and plastic(1)",51-4034,19.3,56.6,19.6,2.6,0.7,1.2,0.0
+"Milling and planing machine setters, operators, and tenders, metal and plastic(1)",51-4035,19.3,56.6,19.6,2.6,0.7,1.2,0.0
+Machinists,51-4041,9.7,45.0,27.7,13.3,3.9,0.2,0.2
+Metal-refining furnace operators and tenders(1),51-4051,12.1,44.9,31.7,6.4,4.4,0.4,0.0
+"Pourers and casters, metal(1)",51-4052,12.1,44.9,31.7,6.4,4.4,0.4,0.0
+"Model makers, metal and plastic(1)",51-4061,16.1,50.4,21.0,6.6,5.3,0.6,0.0
+"Patternmakers, metal and plastic(1)",51-4062,16.1,50.4,21.0,6.6,5.3,0.6,0.0
+Foundry mold and coremakers(1),51-4071,16.1,50.4,21.0,6.6,5.3,0.6,0.0
+"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic(1)",51-4072,16.1,50.4,21.0,6.6,5.3,0.6,0.0
+"Multiple machine tool setters, operators, and tenders, metal and plastic(1)",51-4081,19.3,48.2,20.4,6.8,4.7,0.7,0.0
+Tool and die makers,51-4111,6.9,38.2,37.8,13.3,3.3,0.3,0.2
+"Welders, cutters, solderers, and brazers(1)",51-4121,18.5,46.6,23.4,8.5,2.5,0.2,0.2
+"Welding, soldering, and brazing machine setters, operators, and tenders(1)",51-4122,18.5,46.6,23.4,8.5,2.5,0.2,0.2
+"Heat treating equipment setters, operators, and tenders, metal and plastic(1)",51-4191,19.3,48.2,20.4,6.8,4.7,0.7,0.0
+"Layout workers, metal and plastic(1)",51-4192,19.3,48.2,20.4,6.8,4.7,0.7,0.0
+"Plating machine setters, operators, and tenders, metal and plastic(1)",51-4193,19.3,48.2,20.4,6.8,4.7,0.7,0.0
+"Tool grinders, filers, and sharpeners(1)",51-4194,19.3,48.2,20.4,6.8,4.7,0.7,0.0
+"Metal workers and plastic workers, all other(1)",51-4199,19.3,48.2,20.4,6.8,4.7,0.7,0.0
+Prepress technicians and workers,51-5111,5.4,38.2,21.3,17.5,16.3,1.3,0.0
+Printing press operators,51-5112,11.1,44.6,24.0,8.6,9.7,1.4,0.4
+Print binding and finishing workers,51-5113,16.5,35.2,26.0,12.9,9.5,0.0,0.0
+Laundry and dry-cleaning workers,51-6011,36.2,42.1,13.1,3.1,4.8,0.4,0.3
+"Pressers, textile, garment, and related materials",51-6021,42.1,39.3,12.5,4.5,1.4,0.3,0.0
+Sewing machine operators,51-6031,35.0,37.1,13.3,5.4,7.4,1.4,0.4
+Shoe and leather workers and repairers(1),51-6041,37.1,36.2,18.1,3.1,4.5,0.4,0.6
+Shoe machine operators and tenders(1),51-6042,37.1,36.2,18.1,3.1,4.5,0.4,0.6
+"Sewers, hand(1)",51-6051,24.7,34.5,18.1,6.3,14.0,2.0,0.4
+"Tailors, dressmakers, and custom sewers(1)",51-6052,24.7,34.5,18.1,6.3,14.0,2.0,0.4
+Textile bleaching and dyeing machine operators and tenders(1),51-6061,29.3,43.3,14.1,8.0,2.7,2.6,0.0
+"Textile cutting machine setters, operators, and tenders(1)",51-6062,29.3,43.3,14.1,8.0,2.7,2.6,0.0
+"Textile knitting and weaving machine setters, operators, and tenders(1)",51-6063,29.3,43.3,14.1,8.0,2.7,2.6,0.0
+"Textile winding, twisting, and drawing out machine setters, operators, and tenders(1)",51-6064,29.3,43.3,14.1,8.0,2.7,2.6,0.0
+"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers(1)",51-6091,30.3,34.5,14.2,9.3,9.3,2.0,0.4
+Fabric and apparel patternmakers(1),51-6092,30.3,34.5,14.2,9.3,9.3,2.0,0.4
+Upholsterers,51-6093,32.6,38.9,16.2,6.5,5.1,0.6,0.0
+"Textile, apparel, and furnishings workers, all other(1)",51-6099,30.3,34.5,14.2,9.3,9.3,2.0,0.4
+Cabinetmakers and bench carpenters,51-7011,18.0,50.8,16.7,7.2,6.2,0.7,0.3
+Furniture finishers,51-7021,30.9,29.5,24.7,5.7,6.0,3.2,0.0
+"Model makers, wood(1)",51-7031,18.0,38.3,18.5,7.0,14.1,3.6,0.4
+"Patternmakers, wood(1)",51-7032,18.0,38.3,18.5,7.0,14.1,3.6,0.4
+"Sawing machine setters, operators, and tenders, wood",51-7041,33.3,43.0,11.0,4.6,3.7,4.2,0.3
+"Woodworking machine setters, operators, and tenders, except sawing",51-7042,21.3,50.6,19.3,3.9,4.9,0.0,0.0
+"Woodworkers, all other(1)",51-7099,18.0,38.3,18.5,7.0,14.1,3.6,0.4
+Nuclear power reactor operators(1),51-8011,1.4,33.0,28.8,18.9,13.8,3.7,0.5
+Power distributors and dispatchers(1),51-8012,1.4,33.0,28.8,18.9,13.8,3.7,0.5
+Power plant operators(1),51-8013,1.4,33.0,28.8,18.9,13.8,3.7,0.5
+Stationary engineers and boiler operators,51-8021,7.7,38.5,26.1,8.6,13.6,4.9,0.5
+Water and wastewater treatment plant and system operators,51-8031,3.4,36.5,28.8,12.7,14.7,3.9,0.1
+Chemical plant and system operators(1),51-8091,10.1,33.3,32.8,11.0,11.8,0.8,0.1
+Gas plant operators(1),51-8092,10.1,33.3,32.8,11.0,11.8,0.8,0.1
+"Petroleum pump system operators, refinery operators, and gaugers(1)",51-8093,10.1,33.3,32.8,11.0,11.8,0.8,0.1
+"Plant and system operators, all other(1)",51-8099,10.1,33.3,32.8,11.0,11.8,0.8,0.1
+Chemical equipment operators and tenders(1),51-9011,4.2,31.4,27.1,9.1,22.1,5.1,1.0
+"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders(1)",51-9012,4.2,31.4,27.1,9.1,22.1,5.1,1.0
+"Crushing, grinding, and polishing machine setters, operators, and tenders(1)",51-9021,16.7,44.9,20.8,9.5,6.7,1.1,0.4
+"Grinding and polishing workers, hand(1)",51-9022,16.7,44.9,20.8,9.5,6.7,1.1,0.4
+"Mixing and blending machine setters, operators, and tenders(1)",51-9023,16.7,44.9,20.8,9.5,6.7,1.1,0.4
+"Cutters and trimmers, hand(1)",51-9031,29.4,48.1,15.8,4.7,2.0,0.1,0.0
+"Cutting and slicing machine setters, operators, and tenders(1)",51-9032,29.4,48.1,15.8,4.7,2.0,0.1,0.0
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,17.7,50.1,16.1,6.7,5.5,3.1,0.9
+"Furnace, kiln, oven, drier, and kettle operators and tenders",51-9051,7.0,42.8,29.8,10.3,10.2,0.0,0.0
+"Inspectors, testers, sorters, samplers, and weighers",51-9061,8.8,35.4,25.7,11.0,14.7,3.5,0.9
+Jewelers and precious stone and metal workers,51-9071,13.4,25.0,28.2,5.0,19.5,4.4,4.4
+Dental laboratory technicians(1),51-9081,5.7,26.3,33.2,16.9,14.3,2.5,0.9
+Medical appliance technicians(1),51-9082,5.7,26.3,33.2,16.9,14.3,2.5,0.9
+Ophthalmic laboratory technicians(1),51-9083,5.7,26.3,33.2,16.9,14.3,2.5,0.9
+Packaging and filling machine operators and tenders,51-9111,34.2,39.8,14.6,4.9,5.2,1.1,0.2
+"Painting, coating, and decorating workers(1)",51-9123,20.9,49.3,18.2,6.8,3.4,1.4,0.1
+"Coating, painting, and spraying machine setters, operators, and tenders(1)",51-9124,20.9,49.3,18.2,6.8,3.4,1.4,0.1
+Semiconductor processing technicians(1),51-9141,17.2,45.1,22.0,7.4,6.7,1.2,0.3
+Photographic process workers and processing machine operators,51-9151,4.4,21.4,22.2,10.8,32.3,7.6,1.2
+Computer numerically controlled tool operators(1),51-9161,8.5,36.5,30.6,15.4,7.6,1.0,0.4
+Computer numerically controlled tool programmers(1),51-9162,8.5,36.5,30.6,15.4,7.6,1.0,0.4
+Adhesive bonding machine operators and tenders,51-9191,24.2,37.8,22.8,14.7,0.5,0.0,0.0
+"Cleaning, washing, and metal pickling equipment operators and tenders(1)",51-9192,17.2,45.1,22.0,7.4,6.7,1.2,0.3
+Cooling and freezing equipment operators and tenders(1),51-9193,17.2,45.1,22.0,7.4,6.7,1.2,0.3
+Etchers and engravers,51-9194,10.2,34.2,27.3,9.5,15.4,3.4,0.0
+"Molders, shapers, and casters, except metal and plastic",51-9195,22.3,29.5,23.2,7.0,12.8,3.6,1.6
+"Paper goods machine setters, operators, and tenders",51-9196,18.2,52.1,17.5,8.0,3.8,0.3,0.0
+Tire builders,51-9197,8.1,54.4,27.1,5.3,5.1,0.0,0.0
+Helpers--production workers,51-9198,27.4,42.5,16.4,4.3,7.3,1.2,0.8
+"Production workers, all other(1)",51-9199,16.5,44.4,22.7,8.0,6.8,1.2,0.3
+Aircraft cargo handling supervisors(1),53-1041,7.3,34.5,30.3,11.1,12.6,3.6,0.7
+"First-line supervisors of transportation and material-moving workers, except aircraft cargo handling supervisors(1)",53-1047,7.3,34.5,30.3,11.1,12.6,3.6,0.7
+"Airline pilots, copilots, and flight engineers(1)",53-2011,0.4,4.3,11.8,6.5,57.6,16.5,2.9
+Commercial pilots(1),53-2012,0.4,4.3,11.8,6.5,57.6,16.5,2.9
+Air traffic controllers(1),53-2021,0.3,13.3,31.6,12.8,34.5,6.9,0.6
+Airfield operations specialists(1),53-2022,0.3,13.3,31.6,12.8,34.5,6.9,0.6
+Flight attendants,53-2031,0.5,12.7,28.8,11.1,39.9,5.7,1.2
+"Ambulance drivers and attendants, except emergency medical technicians",53-3011,4.9,53.2,23.8,8.2,8.2,1.8,0.0
+Driver/sales workers(1),53-3031,15.7,47.5,23.2,6.4,5.8,1.1,0.2
+Heavy and tractor-trailer truck drivers(1),53-3032,15.7,47.5,23.2,6.4,5.8,1.1,0.2
+Light truck drivers(1),53-3033,15.7,47.5,23.2,6.4,5.8,1.1,0.2
+"Bus drivers, transit and intercity",53-3052,8.7,43.7,28.1,8.5,8.7,2.0,0.3
+"Passenger vehicle drivers, except bus drivers, transit and intercity(1)",53-3058,10.7,36.1,26.9,8.7,13.4,3.3,0.9
+"Motor vehicle operators, all other",53-3099,12.3,40.2,25.6,8.0,11.5,1.9,0.5
+Locomotive engineers(1),53-4011,1.8,34.2,38.3,10.6,13.3,1.4,0.4
+"Rail yard engineers, dinkey operators, and hostlers(1)",53-4013,1.8,34.2,38.3,10.6,13.3,1.4,0.4
+"Railroad brake, signal, and switch operators and locomotive firers(1)",53-4022,2.8,39.5,29.2,13.0,13.6,1.8,0.0
+Railroad conductors and yardmasters,53-4031,2.7,38.9,33.6,10.8,12.4,1.7,0.0
+Subway and streetcar operators(1),53-4041,2.8,39.5,29.2,13.0,13.6,1.8,0.0
+"Rail transportation workers, all other(1)",53-4099,2.8,39.5,29.2,13.0,13.6,1.8,0.0
+Sailors and marine oilers(1),53-5011,6.1,43.8,25.5,5.3,14.8,4.2,0.3
+"Captains, mates, and pilots of water vessels(1)",53-5021,11.5,32.2,28.9,7.1,14.4,4.6,1.3
+Motorboat operators(1),53-5022,11.5,32.2,28.9,7.1,14.4,4.6,1.3
+Ship engineers(1),53-5031,6.1,43.8,25.5,5.3,14.8,4.2,0.3
+Bridge and lock tenders(1),53-6011,2.5,38.3,25.5,14.3,15.4,3.8,0.3
+Parking attendants,53-6021,16.7,40.1,24.3,8.6,8.2,1.4,0.8
+Automotive and watercraft service attendants(1),53-6031,13.3,48.8,24.5,9.0,3.4,0.9,0.0
+Traffic technicians(1),53-6041,2.5,38.3,25.5,14.3,15.4,3.8,0.3
+Transportation inspectors,53-6051,5.9,27.6,31.4,14.8,15.8,3.9,0.6
+Passenger attendants,53-6061,9.4,43.5,24.0,9.5,9.3,3.8,0.6
+"Aircraft service attendants and transportation workers, all other(1)",53-6098,9.8,45.4,24.8,10.7,7.3,1.8,0.1
+Conveyor operators and tenders(1),53-7011,15.8,58.5,18.6,3.3,2.6,1.2,0.0
+Crane and tower operators,53-7021,9.1,57.3,24.0,5.3,3.1,1.1,0.0
+Dredge operators(1),53-7031,15.8,58.5,18.6,3.3,2.6,1.2,0.0
+Hoist and winch operators(1),53-7041,15.8,58.5,18.6,3.3,2.6,1.2,0.0
+Industrial truck and tractor operators,53-7051,20.6,50.6,20.0,5.3,2.8,0.4,0.2
+Cleaners of vehicles and equipment,53-7061,31.4,41.6,16.9,4.1,4.9,1.0,0.2
+"Laborers and freight, stock, and material movers, hand",53-7062,17.4,47.2,21.3,6.7,6.3,0.9,0.2
+Machine feeders and offbearers,53-7063,16.0,47.1,19.3,7.6,9.2,0.8,0.0
+"Packers and packagers, hand",53-7064,30.6,41.4,16.6,5.2,4.8,0.9,0.4
+Stockers and order fillers,53-7065,12.2,43.1,24.2,8.4,10.0,1.6,0.4
+Gas compressor and gas pumping station operators(1),53-7071,12.1,47.7,24.5,6.9,6.9,1.8,0.0
+"Pump operators, except wellhead pumpers(1)",53-7072,12.1,47.7,24.5,6.9,6.9,1.8,0.0
+Wellhead pumpers(1),53-7073,12.1,47.7,24.5,6.9,6.9,1.8,0.0
+Refuse and recyclable material collectors,53-7081,20.6,48.9,20.6,4.1,5.5,0.3,0.0
+"Tank car, truck, and ship loaders(1)",53-7121,22.2,46.8,18.7,6.2,5.7,0.3,0.2
+"Material moving workers, all other(1)",53-7199,22.2,46.8,18.7,6.2,5.7,0.3,0.2
+Footnotes:,,,,,,,,
+(1) This occupation is not an exact match with ACS; see https://www.bls.gov/emp/classifications-crosswalks/NEM-OccCode-ACS-Crosswalk.xlsx for details,,,,,,,,
+"Data Source: 2018 American Community Survey Public Use Microdata, U.S. Department of Commerce, U.S. Census Bureau",,,,,,,,
+"Table Source: Employment Projections program, U.S. Bureau of Labor Statistics",,,,,,,,
