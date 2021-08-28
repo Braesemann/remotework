@@ -9,7 +9,7 @@ URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
 
 ### Description
 
-**Last modified**: 18th August 2021
+**Last modified**: 28th August 2021
 
 **Authors**: Fabian Braesemann, Fabian Stephany, Ole Teutloff, Otto Kässi, Mark Graham, Vili Lehdonvirta
 
