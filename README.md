@@ -5,6 +5,8 @@ Code and data to produce figures and replicate results of the paper 'The polaris
 
 __Please cite as__: _Braesemann et al. (2021) The polarisation of remote work. Preprint._
 
+URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
+
 ### Description
 
 **Last modified**: 18th August 2021
