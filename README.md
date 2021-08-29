@@ -7,6 +7,7 @@ __Please cite as__: _Braesemann et al. (2021) The polarisation of remote work. P
 Available online:
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
+
 https://osf.io/preprints/socarxiv/q8a96/
 
 ### Description
