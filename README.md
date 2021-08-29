@@ -8,7 +8,6 @@ Available online:
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
 
-https://osf.io/preprints/socarxiv/q8a96/
 
 ### Description
 
