@@ -2,9 +2,12 @@
 
 Code and data to produce figures and replicate results of the paper 'The polarisation of remote work'. 
 
-__Please cite as__: _Braesemann et al. (2021) The polarisation of remote work. Preprint (August 28, 2021). Available at SSRN:_
+__Please cite as__: _Braesemann et al. (2021) The polarisation of remote work. Preprint (August 28, 2021). https://doi.org/10.31235/osf.io/q8a96._ 
 
-URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
+Available online:
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
+https://osf.io/preprints/socarxiv/q8a96/
 
 ### Description
 
