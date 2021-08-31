@@ -2,7 +2,7 @@
 
 Code and data to produce figures and replicate results of the paper 'The polarisation of remote work'. 
 
-__Please cite as__: _Braesemann et al. (2021) The polarisation of remote work. Preprint (August 28, 2021). https://doi.org/10.31235/osf.io/q8a96._ 
+__Please cite as__: _Braesemann, Stephany, Teutloff, Kässi, Graham, Lehdonvirta (2021) The polarisation of remote work. Preprint (August 28, 2021). https://doi.org/10.31235/osf.io/q8a96._ 
 
 Available online:
 
