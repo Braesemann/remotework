@@ -24,6 +24,7 @@ The findings suggest that remote work is shaped by agglomerative forces, which a
 - Data
   - olm_data
     - Regionally aggregated data for geographical analysis (country, OECD regional, Global South regional level)
+    - Regionally aggregated data on US county level (year, state, county, project count, mean and median wage)
     - Occupation-level data
     - Regional Employer-worker network data by year to reproduce figure 1 (aggregated to regional level)
   - official_statistics
